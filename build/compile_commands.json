@@ -1,0 +1,427 @@
+[
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -std=gnu++20 -o CMakeFiles/hello-world.dir/main.cc.o -c /home/mkandlikar/src/seastar-learning.git/main.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/main.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/alien.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/alien.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/alien.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/file.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/file.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/file.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/fair_queue.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/fair_queue.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/fair_queue.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/reactor_backend.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/reactor_backend.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/reactor_backend.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/thread_pool.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/thread_pool.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/thread_pool.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/app-template.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/app-template.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/app-template.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/dpdk_rte.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/dpdk_rte.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/dpdk_rte.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/exception_hacks.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/exception_hacks.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/exception_hacks.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/execution_stage.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/execution_stage.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/execution_stage.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/fsnotify.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/fsnotify.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/fsnotify.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/fsqual.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/fsqual.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/fsqual.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/fstream.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/fstream.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/fstream.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/future.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/future.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/future.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/future-util.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/future-util.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/future-util.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/linux-aio.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/linux-aio.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/linux-aio.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/memory.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/memory.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/memory.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/metrics.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/metrics.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/metrics.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/on_internal_error.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/on_internal_error.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/on_internal_error.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/posix.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/posix.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/posix.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/prometheus.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/prometheus.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/prometheus.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/program_options.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/program_options.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/program_options.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/reactor.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/reactor.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/reactor.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/resource.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/resource.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/resource.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/sharded.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/sharded.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/sharded.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/scollectd.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/scollectd.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/scollectd.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/systemwide_memory_barrier.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/systemwide_memory_barrier.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/systemwide_memory_barrier.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/smp.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/smp.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/smp.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/sstring.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/sstring.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/sstring.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/thread.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/thread.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/thread.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/uname.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/uname.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/uname.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/io_queue.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/io_queue.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/io_queue.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/semaphore.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/semaphore.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/semaphore.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/core/condition-variable.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/core/condition-variable.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/core/condition-variable.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/api_docs.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/api_docs.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/api_docs.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/common.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/common.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/common.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/file_handler.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/file_handler.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/file_handler.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/httpd.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/httpd.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/httpd.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/json_path.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/json_path.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/json_path.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/matcher.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/matcher.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/matcher.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/mime_types.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/mime_types.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/mime_types.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/reply.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/reply.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/reply.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/routes.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/routes.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/routes.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/transformers.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/transformers.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/transformers.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/url.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/url.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/url.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/client.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/client.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/client.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/http/request.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/http/request.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/http/request.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/json/formatter.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/json/formatter.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/json/formatter.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/json/json_elements.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/json/json_elements.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/json/json_elements.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/arp.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/arp.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/arp.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/config.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/config.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/config.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/dhcp.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/dhcp.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/dhcp.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/dns.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/dns.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/dns.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/dpdk.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/dpdk.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/dpdk.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/ethernet.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/ethernet.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/ethernet.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/inet_address.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/inet_address.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/inet_address.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/ip.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/ip.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/ip.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/ip_checksum.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/ip_checksum.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/ip_checksum.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/native-stack.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/native-stack.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/native-stack.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/net.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/net.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/net.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/packet.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/packet.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/packet.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/posix-stack.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/posix-stack.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/posix-stack.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/proxy.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/proxy.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/proxy.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/socket_address.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/socket_address.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/socket_address.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/stack.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/stack.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/stack.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/tcp.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/tcp.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/tcp.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/tls.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/tls.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/tls.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/udp.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/udp.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/udp.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/unix_address.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/unix_address.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/unix_address.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/net/virtio.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/net/virtio.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/net/virtio.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/rpc/lz4_compressor.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/lz4_compressor.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/lz4_compressor.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/rpc/lz4_fragmented_compressor.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/lz4_fragmented_compressor.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/lz4_fragmented_compressor.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/rpc/rpc.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/rpc.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/rpc/rpc.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/alloc_failure_injector.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/alloc_failure_injector.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/alloc_failure_injector.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/backtrace.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/backtrace.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/backtrace.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/conversions.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/conversions.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/conversions.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/exceptions.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/exceptions.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/exceptions.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/file.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/file.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/file.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/log.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/log.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/log.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/process.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/process.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/process.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/program-options.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/program-options.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/program-options.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/read_first_line.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/read_first_line.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/read_first_line.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/tmp_file.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/tmp_file.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/tmp_file.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/util/short_streams.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/util/short_streams.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/util/short_streams.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/websocket/server.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/websocket/server.cc",
+  "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/websocket/server.cc"
+}
+]
