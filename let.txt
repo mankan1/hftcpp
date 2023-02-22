@@ -1,0 +1,2115 @@
+call CocAction("format")
+https://gitlab.helpsystems.com/digitalguardian/sasource/-/merge_requests/new/diffs?merge_request%5Bsource_branch%5D=dev-mkandlikar-AG-48872-3-7.9.x
+https://gitlab.helpsystems.com/digitalguardian/sasource/-/merge_requests/16645/diffs?commit_id=d150cb85b0fc4e8dddf8f79669ef4f6c6b24eb2a
+
+DOS
+Access Control bytes
+
+
+rtf
+353
+https://codemachine.com/articles/rpc_chain.html - Memomry dump
+verdasys
+http://bnr-coverity.dgbnr.	:8080/reports.htm#v10004/p10005
+VMWare vsphere - login - qa.local\mkandlikar - pass : milli0n$
+re - 0418JH450263
+acelab\jfusco - RF machine
+
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=b47b70f0-1cfd-473c-b57d-1d46fc886ae5
+
+forward file capture , when there are attachment - send attachent - length 0 
+file capture - lenght dgmc - file never gets uploaded - 
+email 2 attments - rtf - pdf - forward that - just one - 2 attachments - 
+
+insurance company did not include the replacement of the cabinets and counters
+Also please note that our estimate did not include the replacement cost for appliances
+We are able to submit to the insurance for additional costs (such as cabinets and counters) that we found 
+once we got into the demolition work.  We can do so and I believe they will make a supplemental adjustment to the claim amount.
+The washer/dryer should be included in our supplemental claim as they were not functional from a direct result of the water damage.
+
+ - 
+uploading wrong file - video - watch that one - forward - the attachment - path is code - 
+onsend - 
+process attachment - no local path - no file on disk - 
+
+tries to find the path - fileName , filePath - Attachment Name - one.doc is attachmentName - 
+email properties - 
+
+code - attachmentName - get path - search on this
+2 attachments - with same name - files are different - 
+File name be Different - different file - 
+
+fileName - of the attachmentName - 
+how to fix this : 
+
+AG39175-BlockOutlookSaveAttachment	Windows	Active
+AG41317-curProcessWindowTitle-BlockNTU-firefox	Windows	Active
+AG-41681-SendMailBlock
+
+current code : 
+saveAs - path on the disk , now we see the path
+
+@tthompson can you please merge MR : https://gitlab.helpsystems.com/digitalguardian/sasource/-/merge_requests/16475#note_211519 ?
+
+.rtf, .pdf files
+sysadmin
+Verdasys1=
+
+Rule Settings
+Coin
+med
+19
+AC 
+Alert- 
+
+======
+study - 
+======
+800-392-5749
+
+SerializeReferenceInfo()
+SerializeUserAction()
+GetUserInfo()
+GetUserInfo()
+
+SerializePluginEvent()
+SerializeUserAction()
+
+SerializePluginEvent()
+SerializePluginEvent()
+
+SerializeUserAction()
+GetUserInfo()
+
+GetUserInfo()
+
+====
+flood log, tls bool - per
+set - log, succ - set
+
+--- 
+fix : server side - 
+throw away invalid domains -
+log it as unknown domain
+=====
+
+registerry - something that blocks - 
+block all unsigned scripts to be run
+DgDiag does not sign these
+system scan, got all the event logs back
+event logs - 
+scan to copy the event log - 
+collecting it , accessing it - 
+System scan is able to collect info - 
+another 
+Diag VBScript, what system scan is doing
+how do we know, its VBScripts - 
+VB.cpp - writes out of the VBS script
+VBScripts - this is how it blocks it , 
+waited too long
+how they are blockin
+Diag code works, setting thats blocking the 
+collection - 
+
+Is DgDiag the only thing that runs unsigned script
+DgDiag sole user of something
+how they are blocking - 
+whats blocking it, sign and sending it - 
+co-signing in MS - 
+EDR scan - profiling
+
+System scan - Enchance - System Event
+washer / dryer
+refri, laminate, vinyl  - ()
+garage - estimate
+addition of extra, 
+page, 
+HGLOBAL
+FILE_REFERENCE - 
+
+cabinets - 
+additional sub floor - (half bathroom
+under where refrigerator - 
+water supply - 
+dining - 
+) 
+counter top - 
+appliancees
+
+clipboard was getting corrupted
+
+4D616E6F6A566D63566D
+printf("%02X", domain[i]
+lambda
+
+
+            //If it is a print event, uad is artificially made up after printing event. Here making up the detailCount
+            ULONG detailCount = pEvent->detailCount;
+            if (IsPrintEvent(pEvent))
+            {
+                detailCount = 1;
+            }
+
+            bool isLaptop = CPropertyManager::isLaptop();
+            DNS_STATUS status = DnsValidateName(strUserDomain, DnsNameDomain);
+            if (status == DNS_ERROR_NUMERIC_NAME || status == DNS_ERROR_INVALID_NAME_CHAR || status == ERROR_INVALID_NAME) {
+                g_log.printf(LOGHEADER_BUNDLE_ERROR, LOGLEVEL_ERROR, _F("Invalid domain name : %s\n"), strUserDomain);
+            }
+
+            //_T("<ua")
+            //    _T(" seq=\"%d\" ot=\"%d\" ph=\"%s\" in=\"%s\" md5=\"%s\" meid=\"%s\"")
+
+
+
+            LPCWSTR platformBit = helper.Is32BitProcess() ? L"x86" : L"x64";
+#elif defined(_X86_)
+            LPCWSTR platformBit = L"x86"; // 32-bit is always x86
+#endif
+            DNS_STATUS status = DnsValidateName(strUserDomain, DnsNameDomain);
+            if (status == DNS_ERROR_NUMERIC_NAME || status == DNS_ERROR_INVALID_NAME_CHAR || status == ERROR_INVALID_NAME) {
+                g_log.printf(LOGHEADER_BUNDLE_ERROR, LOGLEVEL_ERROR, _F("Invalid domain name : %s\n"), strUserDomain);
+            }
+
+            intermediateTemplate.Format
+                (
+                g_szProcessEventXMLOpenEnded,
+                /*seq*/     _T("%d"),
+                /*gid*/     CBundleString(strGID, m_bSupportBase64_rev1).c_str(),
+                /*ema*/     CBundleString(strEmail, m_bSupportBase64_rev1).c_str(),
+
+SerializeReferenceInfo()
+SerializeReferenceInfo()
+
+
+====
+from DGMC - being passed from there
+in a packet
+uninstall key that has a space to begin with
+month into it, lattice
+
+====
+800-430-4263 - health care options
+provider - medical number : 93764830H
+santa clara - anywhere - straight medical - FFS - find provider - healthcareoptions.dhcs.ca.gov - ffs area - add 
+
+800 - 464 - 4000
+ffs - cover - 800-541-5555
+dentical - 800-322-6384
+
+welcome - 
+Kaiser
+
+MONG H TRUONG 19.49 miles away
+1865 Alum Rock Ave
+San Jose, CA 95116
+Driving directions to MONG H TRUONG
+Phone: (408)928-5650
+Specialty: Family Practice, Pediatrics
+Languages: English, Vietnamese
+Plans accepted:
+(345) Anthem Blue Cross Partnrshp
+More details
+PETER L NGUYEN 18.62 miles away
+749 Story Rd
+San Jose, CA 95122
+Driving directions to PETER L NGUYEN
+Phone: (408)794-2088
+Specialty: Family Practice, General Practice, Internal Medicine
+Languages: English, Spanish, Vietnamese
+Plans accepted:
+(309) Santa Clara Family Health
+(345) Anthem Blue Cross Partnrshp
+More details
+TUAN LE 15.76 miles away
+1569 Lexann Ave
+San Jose, CA 95121
+Driving directions to TUAN LE
+Phone: (408)531-1555
+Specialty: General Practice, Internal Medicine
+Languages: English, Vietnamese
+Plans accepted:
+(309) Santa Clara Family Health
+(345) Anthem Blue Cross Partnrshp
+More details
+REGIONAL MEDICAL CENTER OF SAN JOSE 19.56 miles away
+225 N Jackson Ave
+San Jose, CA 95116
+Driving directions to REGIONAL MEDICAL CENTER OF SAN JOSE
+Phone: (800)307-7135
+Plans accepted:
+(345) Anthem Blue Cross Partnrshp
+More details
+REGIONAL MEDICAL CENTER OF SJ 19.75 miles away
+225 N Jackson Ave
+San Jose, CA 95116
+Driving directions to REGIONAL MEDICAL CENTER OF SJ
+Phone: (408)259-5000
+Plans accepted:
+(309) Santa Clara Family Health
+More details
+REGIONAL MEDICAL CENTER OF SAN JOSE 19.77 miles away
+225 N Jackson Ave
+San Jose, CA 95116
+Driving directions to REGIONAL MEDICAL CENTER OF SAN JOSE
+Phone: (408)259-5000
+Plans accepted:
+(309) Santa Clara Family Health
+More details
+SAINT LOUISE REGIONAL HOSPITAL 8.23 miles away
+9400 N Name Uno
+Gilroy, CA 95020
+Driving directions to SAINT LOUISE REGIONAL HOSPITAL
+Phone: (408)848-2000
+Plans accepted:
+(345) Anthem Blue Cross Partnrshp
+More details
+SAN JOSE HEALTHCARE SYSTEM-REGIONAL MEDICAL CENTER OF SJ 19.52 miles away
+225 N Jackson Ave
+San Jose, CA 95116
+Driving directions to SAN JOSE HEALTHCARE SYSTEM-REGIONAL MEDICAL CENTER OF SJ
+Phone: (408)259-5000
+Plans accepted:
+(309) Santa Clara Family Health
+forta.com
+google.com
+file.io
+dlptest.com
+====
+8080 
+proxy2.cmb.mc
+mip for enterprise proxy - configure it for 
+====
+SRV*c:\symbols*http://msdl.microsoft.com/download/symbols;C:\dg\git\sasource\dgagent\agent\win\bin\release64;C:\dg\git\sasource\dgagent\agent\win\bin\release32
+
+AG-41503
+AG-49039
+https://digitalguardian.atlassian.net/browse/AG-49039
+
+Santa clara
+408 - 758 - 3800 (medi-cal)
+blank - portion 1
+no social 
+pg 15 - my name son
+17 sign date 
+page 16 17 - envelop - 
+drop 
+
+45 days picture of application 
+page needs
+qualify
+evaluation, health care options kaiser, pick doctor health card , 
+379 tom king ct, gilroy
+
+15 , 17 
+date application - 38 days 
+applied 35 days
+auth id
+son, k - interview
+ 
+
+17420 BLUE JAY CT, MORGAN HILL, CA 95037
+
+directly - 
+
+
+ 17420 BLUE JAY COURT, MORGAN HILL, CA 95037
+
+Application #: 1357610886
+
+
+dgsecure.exe -d -k:acty773877607 config.xml config_clear_
+11:11 am
+11:27 am
+11:41 am
+11:43 am
+11:49 am
+
+<and>
+<userFunction name="dlp_allos_classification_version"/>
+<not>
+<userFunction name="dlp_classification_universal_rule_modifier"/>
+</not>
+<set>
+<varstring name="dlp_classification_universal_rule_name" scope="event"/>
+<string value="DLP1000"/>
+</set>
+<or>
+<in op="like"><evtSrcFilePath/>
+<list>
+<componentListString id="dlprestrictedcontextpaths" name="dlp-restricted_context_paths"/>
+</list>
+</in>
+<in op="like">
+<evtDestFilePath/>
+<list>
+<componentListString choice="1" 
+description="Paths that contain files to be tagged as Restricted" 
+id="dlprestrictedcontextpaths" 
+label="Restricted File Paths" 
+name="dlp-restricted_context_paths" optional="0"/>
+</list>
+</in>
+</or>
+</and>
+</dgRule>
+
+<and>
+  <userFunction name="dlp_allos_classification_version" />
+  <not><userFunction name="dlp_classification_universal_rule_modifier"/></not>
+  <set><varstring name="dlp_classification_universal_rule_name" scope="event"/><string value="DLP1000"/></set>
+  <or>
+    <in op="like">
+      <evtSrcFilePath/>
+      <list>
+        <componentListString id="dlprestrictedcontextpaths" name="dlp-restricted_context_paths"/>
+      </list>
+    </in>
+    <in op="like">
+      <evtDestFilePath/>
+      <list>
+        <componentListString choice="1" description="Paths that contain files to be tagged as Restricted" id="dlprestrictedcontextpaths" label="Restricted File Paths" name="dlp-restricted_context_paths" optional="0"/>
+      </list>
+    </in>
+  </or>
+</and>
+
+On Windows machines with Chinese language, when a classified word/excel documents with tags on it was copied and pasted to a new word doc, and saved using of the the provided short cut paths, tags were not being propagated, the root cause their was during the Save operation, the path produced was a shortcut in chinese language and had to be converted into full path , like C:\Users\mkandlikar\Desktop, Logic was written to map this shortcut to a real path just chinese shortcut paths (Desktop, Documents, Downloads) 
+
+dev-mkandlikar-AG-46470-rel-7.8.2
+So, it's correct password but I'm not sure why the log said "E0928 19:18:44.717184     616 dialer.go:328] cloudcomms - dialer: failed to authenticate using Basic auth. from proxy [http://rf-proxy-server.acelab.com:3128]".
+I'll switch to no-auth proxy port to see if it succeeds.
+
+SRV*c:\symbols*http://msdl.microsoft.com/download/symbols;C:\dg\git\sasource\dgagent\agent\win\bin\release64;C:\dg\git\sasource\dgagent\agent\win\bin\release32
+
+
+HGLOBAL _AfxCopyGlobalMemory(HGLOBAL hDest, HGLOBAL hSource)
+{
+    if (hSource == NULL)
+    {
+        g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : hSource is NULL"));        
+        return NULL;
+    }
+
+    LPVOID lpSource = ::GlobalLock(hSource);
+
+    if (lpSource == NULL)
+    {
+        g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : Unable to lock hSource"));        
+        return NULL;
+    }
+
+    // make sure we have suitable hDest
+    ULONG_PTR nSize = ::GlobalSize(hSource);
+    if (hDest == NULL)
+    {
+        hDest = ::GlobalAlloc(GMEM_FIXED, nSize);
+        if (hDest == NULL)
+        {
+            ::GlobalUnlock(hSource);
+            g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : hDest is NULL"));            
+            return NULL;
+        }
+    }
+    else if ((nSize == 0) ||
+             (nSize != ::GlobalSize(hDest)))
+    {                
+        // hDest is not large enough
+        g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : hDest failed to allocate sufficient memory"));
+        ::GlobalFree(hDest);
+        ::GlobalUnlock(hSource);
+        return NULL;
+    }
+
+    // copy the bits
+    
+    LPVOID lpDest = ::GlobalLock(hDest);
+    if (lpDest == NULL)
+    {        
+        g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : Unable to lock hDest"));
+        ::GlobalFree(hDest);
+        ::GlobalUnlock(hDest);
+        ::GlobalUnlock(hSource);
+        return NULL;
+    }
+        
+    Checked::memcpy_s(lpDest, (ULONG)::GlobalSize(hDest), lpSource, (ULONG)nSize);
+
+    ::GlobalUnlock(hDest);
+    ::GlobalUnlock(hSource);
+
+    // success -- return hDest
+    return hDest;
+}
+diff --git a/dgagent/agent/win/Common/DgNotify.cpp b/dgagent/agent/win/Common/DgNotify.cpp
+index 6dc2da8edc..d5426e65b9 100644
+--- a/dgagent/agent/win/Common/DgNotify.cpp
++++ b/dgagent/agent/win/Common/DgNotify.cpp
+@@ -1162,8 +1162,8 @@ HGLOBAL _AfxCopyGlobalMemory(HGLOBAL hDest, HGLOBAL hSource)
+     {
+         // hDest is not large enough
+         g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : hDest failed to allocate sufficient memory"));
+-        ::GlobalUnlock(hSource);
+         ::GlobalFree(hDest);
++        ::GlobalUnlock(hSource);
+         return NULL;
+     }
+
+@@ -1174,6 +1174,7 @@ HGLOBAL _AfxCopyGlobalMemory(HGLOBAL hDest, HGLOBAL hSource)
+     {
+         g_ApiDriver.LogString(LOGLEVEL_ERROR, _D("Calling _AfxCopyGlobalMemory : Unable to lock hDest"));
+         ::GlobalFree(hDest);
++        ::GlobalUnlock(hDest);
+         ::GlobalUnlock(hSource);
+         return NULL;
+     }
+
+
+を参照してください
+Manoj Kandlikar
+  1 month ago
+ok.
+
+cd ..
+cd C:\Program Files\DGAgent\Verity\kv\_nti40\bin
+
+Manoj Kandlikar
+  1 month ago
+where is this no-auth proxy setting?
+
+AG-47460 : 
+
+https://github.com/golang/go/wiki/GoForCPPProgrammers
+
+@
+mkandlikar@digitalguardian.com
+manoj.kandlikar@helpsystems.com
+
+Canh Cao
+  1 month ago
+It's just the port: 3132 and you remove the username and password. I already made the change and waiting for the dynamic group sync.
+    //[SpeculateSaveSourceFile] * [tid = 7396] Speculated File Path(score = 390) ->[? : \文件2 - word]
+    //[IsFileSaveAsBlocked] * szSpeculatedFile = ? : \文件2 - word destFileName = 文件\自訂 Office 範本\Alberto Jeremiah alberto.docx
+
+
+
+   Tracelog 6692 4360   2022/09/30 05:54:37:192 -- PROC_ENTRY: [processCache_RemoveProcess] REMOVE PROCESS Process[6692:cmd.exe] Parent[4092:erl.exe] Creator[4092] Injected=NO processFlags=[SK+TR+NI+NA+NC+ND+NV+NR+PR+RP+] mitFlags=[00000021->00000021] mitFlags2=[40000000->40000000] Code={A6A3AE9E-D4B2-01D8-241A-00008030BCA0}, MD5={E822218A-2D16-F0BE-4694-B9C3E0B6CDEE}, ParentCode={4B07B317-D439-01D8-FC0F-00008030F59D}
+   Tracelog 4 308       2022/09/30 05:54:37:382 -- [ComponentLists_CloseInactiveQDBs] DBs opened 63 closed 29 QDB pages 2603, created 5087, destroyed 2484 InfoEntries 34
+   Tracelog 6088 3092   2022/09/30 05:54:37:521 -- [Sputnik] I0930 05:54:37.521709    6088 logging.go:142] ~mip:0 - [oneds_impl.cpp:177 mipns::DoTaskDispatcherQueue::<lambda_31d7ec304c03936368c5ca066ad54eda>::operator ()] Executing OneDS task 'OneDS_Task-2'
+   Tracelog 6088 3092   2022/09/30 05:54:37:522 -- [Sputnik] I0930 05:54:37.522342    6088 logging.go:142] ~mip:0 - [DgHttpDelegate::SendAsync] Enter.
+   Tracelog 6088 3092   2022/09/30 05:54:37:522 -- [Sputnik] I0930 05:54:37.522342    6088 logging.go:142] ~mip:0 - [DgHttpDelegate::SendInternal] POST https://self.events.data.microsoft.com/OneCollector/1.0/
+   Tracelog 6088 3092   2022/09/30 05:54:37:522 -- [Sputnik] I0930 05:54:37.522342    6088 logging.go:142] ~mip:0 - [DgHttpDelegate::SendAsync] Leave.
+   Tracelog 6088 7244   2022/09/30 05:54:37:554 -- [Sputnik] I0930 05:54:37.554229    6088 dialer.go:206] dghttp - dialer: attempting to connect to proxy [http://rf-proxy-server.acelab.com:3132]
+   Tracelog 6088 7244   2022/09/30 05:54:37:554 -- [Sputnik] I0930 05:54:37.554229    6088 dialer.go:106] dghttp - dialer: returning dialer to proxy[rf-proxy-server.acelab.com:3132]
+   Tracelog 6088 4372   2022/09/30 05:54:37:693 -- [Sputnik] I0930 05:54:37.693194    6088 dialer.go:230] dghttp - dialer: received http resp.StatusCode(200).  OK
+   Tracelog 6088 2484   2022/09/30 05:54:37:997 -- [Sputnik] I0930 05:54:37.997391    6088 httpclient.go:226] ~mip dghttp-OneDS_HTTP-0 - POST https://self.events.data.microsoft.com/OneCollector/1.0/, id: OneDS_HTTP-0 success: 200
+   Tracelog 6088 2484   2022/09/30 05:54:37:997 -- [Sputnik] I0930 05:54:37.997391    6088 logging.go:142] ~mip:0 - [DgHttpDelegate::DoResponse] Got http response status: 200
+   Tracelog 6088 2484   2022/09/30 05:54:37:997 -- [Sputnik] I0930 05:54:37.997899    6088 logging.go:142] ~mip:0 - [default_task_dispatcher_delegate.cpp:59 mipns::DefaultTaskDispatcherDelegate::DispatchTask] Dispatching task 'OneDS_Task-3' to event loop
+   Tracelog 6088 8476   2022/09/30 05:54:38:022 -- [Sputnik] I0930 05:54:38.022616    6088 logging.go:142] ~mip:0 - [oneds_impl.cpp:177 mipns::DoTaskDispatcherQueue::<lambda_31d7ec304c03936368c5ca066ad54eda>::operator ()] Executing OneDS task 'OneDS_Task-3'
+   Tracelog 6088 8476   2022/09/30 05:54:38:022 -- [Sputnik] I0930 05:54:38.022616    6088 logging.go:142] ~mip:0 - [default_task_dispatcher_delegate.cpp:72 mipns::DefaultTaskDispatcherDelegate::DispatchTask] Dispatching task 'OneDS_Task-4' to event loop with a 2-second delay
+   Tracelog 6088 3092   2022/09/30 05:54:38:030 -- [Sputnik] I0930 05:54:38.030674    6088 logging.go:142] ~mip:0 - [event_loop_timed.cpp:160 mipns::EventLoopTimed::RunLoop] Task not ready.
+
+dir /s Expli
+7.8.0 to 7.8.1 not working ? verify
+
+LogString(LOGLEVEL_ERROR, "[%s@%d] _ConstructDGCLObjUsingHeader failed for %ws\r\n",
+                __FUNCTION__, __LINE__, fileRef->filename);
+acelab\jfusco
+Bend3r
+\\rf-remote-mac.acelab.com
+168.68.104
+
+/
+test {b1667442-04e3-11ed-9881-e95396a25213}
+cd ..
+kdnet
+192.168.68.104
+198.168.164.1
+bcdedit /dbgsettings net hostip:192.168.164.1 port:51111
+cmd
+Key=t05sxjw28b8v.2udlra066ft8k.3d5ic7qkln0uu.yb16042a3pc1
+Key=2x85dwleidpsn.hjmwfuqgqvau.1816fsbkau6ak.28j7ya3lqcqt0
+2x85dwleidpsn.hjmwfuqgqvau.1816fsbkau6ak.28j7ya3lqcqt0
+shutdown 
+winword.exe
+adva
+uber
+remote debug
+advanced
+bcdedit /debug on
+bcdedit /dbgsettings serial debugport:2 baudrate:115200
+https://www.office.com/?auth=2
+bcdedit /set "{dbgsettings}" busparams 2.2.0
+control
+advanced
+alber
+cmd
+winword.exe
+365
+device manager
+shutdown -r -t 0
+50001
+ipconfig
+word
+acelab\RFW-1466956
+acelab\RFW-1494914
+acelab\RFW-1500510
+workgroup\DESKTOP-J5E7H00
+uninstall
+programs
+control
+mkandlikar
+Vassreset4321_
+You can just set the following in your environment variable
+_dgapi_chrome.exe_debugFlags=0x0000480000000000
+_dgapi_chrome.exe_debugLevel=uber
+This will log the files found in WinDbg
+Flags are
+    _DG_SPECULATOR          = 0x0000080000000000,
+    _DG_SAVE_AS             = 0x0000400000000000,
+https://portal.office.com
+\\acestaging\SharePathRoot\host_apps
+Manoj Kandlikar
+  11:17 AM
+ok
+11:19
+will it be logged inside dg.log
+1234
+
+remote debu
+9000
+cmd
+cd d
+dir
+cd ..
+cd m
+cd D
+uninstall
+cd Users
+Dante Dacayanan
+  11:21 AM
+No it will show up in windbg output window or debugview
+
+sysif.lib;DgWinCrypt.lib;DGDSLib.lib;DGCryptoAPI.lib;DGAFESup.lib;Advapi32.lib;
+
+power.doc
+doclassification
+did not work for 7.7.0 to 7.7.1 (maybe 7.7.0 to 7.7.1 changes) 
+7.7.1 to 7.7.2 - saw 6 (updating), reboot, saw 7 (update pending was 7.7.1) then without reboot shows 2 (change to 7.7.2)
+7.7.2 - 7.7.3 - after sent, reboot, saw 6 , then reboot - > saw 7.7.3 (with 2)
+7.7.3 to 7.7.4 -> saw 7, and then reboot and then saw 6
+7.7.4 to 7.7.5 -> saw 2(directly - issue occurs)
+
+7.7.5 to 7.7.6 -> not happening thru DGMC (Did show upgrade pending on DGMC, and showed 2, and did upgrade)
+7.7.6 -> 7.8.0 -> shows 7 , update pending (at 7.7.6.69)
+7.8.0 -> 7.8.1 - shows 2 directly
+7.8.1 -> 7.8.2 - saw 6 - then shows reboot
+
+7.7.3 -> 7.7.4 -> 7.8.4
+7.7.1 to 7,7.4 - saw 7 (upgrade pending in DGMC)
+
+7.7.4 to 7.8.1 upgrade using DGMC , restart option was not selected , push was made , dialog modal on DGMC disappeared but status on it was 7.7.4
+did a manual restart of the Agent machine
+saw upgrade pending in DGMC with 7.7.4 version , it is consistent with other agent version upgrades.
+When agent comes up, reg value for status is 7, DGMC still has the upgrade pending indicator
+Did agent restart again, and DGMC changed to green with newer Agent version (7.8.1.0081)
+Consistent with other version agent upgrades.
+
+1. Need to update Release notes that the issue was issue by updating the document.
+
+2. Create a doc ticket that documents that we have dependency on Agent Query Interval setting. 
+If the value of the setting is 30 mins, then the Agent update happens after 30 mins and the 
+registry setting updates to 7 or 6 only after 30 mins as the Agent upgrade happens.
+
+3. Note running dget executes the update right away even if the Agent Query Interval is set to 30 mins
+
+error failure to open database component was enable but - inactive - red cirlce
+
+quarter - Sept 30 - 
+Training - State class 
+Security class - 
+start /wait DGBaseAgent.exe /s UNINSTALLLKEY=verdasys /norestart
+Afternoon - 
+reg query HKEY_LOCAL_MACHINE\SOFTWARE\VDG /v status
+Desktop\DGBaseAgent.exe /norestart  
+start /wait DGBaseAgent.exe /s UNINSTALLLKEY=verdasys /norestart
+
+msiexec.exe /i dgbaseagent.msi /quiet INSTALLDIR="C:\Program Files\DGAgent\" SERVERNAME=rfdgsqastag-840.qa.local SERVERPORT=443 CERTIFICATEFILE=C:\Users\jfusco\Desktop\cert-qastag\dgserver.cer CERTIFICATEIDFILE=C:\Users\jfusco\Desktop\cert-qastag\certguid.dat UNINSTALLKEY=verdasys1 LOGFILE="c:\windows\dginstall.log"
+
+Most of dgUpdate works on reboot, the actual replacement of files. The MSI/EXE does wait for the initial update files to be staged and the agent to be informed.  If a reboot happens after this then dgupdate will run on shutdown.  DgUpdate does have states, so if the system is powered off or rebooted prior to completing the update then it should rerun the state.
+
+If we are seeing edge conditions to this behavior then we should identify and file product bugs as they are not expected behavior.  On worst case a second reboot should be required to apply the update (in case  system was powered off or rebooted) prior to running dgUpdate.
+
+username (on vrst domain) and password for the console
+
+I would suggest to determine if there was/is a product defect and raise a defect (including a dgDiag from a failed update). 
+
+go.exe tool pprof -http 127.0.0.1:8081 heap.prof
+Reserverd : AG-48099 testing
+
+regedit
+outlook
+
+uncharted
+want a refund , retuning 23 cans - atp championship,
+returning, 
+outlook
+ebay - 
+9220 pulaski highway, Baltimore, MD 20220
+
+TestResults	Browser	Event Information	Verifier	AppcrashCount / KernelStack
+1		RFW-1474292	Agent Tests / Deploy_VM	2022-07-12 16:30:14	2022-07-12 16:34:46	Windows 10 20H2 -19042.1706(Nightly) - (Official)	
+Execution InProgress
+Firefox	Event Data	✗	0 / N/A
+
+#include "pch.h"
+#include "CppUnitTest.h"
+#include "Header.h"
+
+using namespace Microsoft::VisualStudio::CppUnitTestFramework;
+
+namespace UnitTest1
+{
+	TEST_CLASS(UnitTest1)
+	{
+	private:
+		Histogram* histogramPtr;
+
+	public:
+		
+		TEST_METHOD(TestMethod1)
+		{
+			vector<float> hist{ 0, 5, 10 };
+			vector<float> expected_result{ 0, 1, 3, 1 };
+
+			histogramPtr = new Histogram(hist);
+			histogramPtr->add_numbers({ 1, 9, 12, 5, 6 });
+			Assert::IsTrue(histogramPtr->histogram() == expected_result, L"Unexpected value" );
+		}
+	};
+}
+
+mkandlikar@digitalguardian.com
+
+atp chap - penn - atp - penn - 78.95/11.95, dunlop - 69.95/6.95 - 69.95/6.95
+
+CC:45:71:7C:58:BE:CB:8C:97:F0:69:65:24:92:8A:AB:9E:CF:57:7C:19:65:04:EE:17:11:5D:93:73:09:66:E4
+
+tasklist \m
+outlook
+2021 CA540 Filing Instructions
+MANOJ KANDLIKAR & KATY CLEMENS
+Form filed:
+CA540 and supplemental forms and schedules
+Filing method:
+Your return will not be e-filed. Sign and date your return
+and check or money order. Mail them on or before the due
+date of the return to the address listed below.
+Due date:
+04-18-2022
+Payment:
+$7,848.00
+Transaction method:
+The balance of $7,848.00 will be paid by direct debit from
+your checking account number ending in 6726 and will be
+withdrawn from your account on 04-18-2022.
+Mail-to address:
+Franchise Tax Board
+PO Box 942867
+Sacramento, CA 94267-0001
+
+DP-PV Proprietary Formula
+ACI-PV-FORM
+AG-48176
+Gaurang : 
+https://github.com/digitalguardian/sasource/commit/769fb8a0276a754f125852ea40c9da3077312edf
+https://github.com/digitalguardian/sasource/commit/e852c824f95478ff642a6690a6ea42beac710a42
+
+///
+auto night - proxy rf - mip - same pick one and run on your vm 
+mip test start and stop while
+840 dgmc arc right now
+Tim Larry - mip telemetry - freq
+pointers - research sdk remember - DD - proxy config - log file is 
+which test - 
+mip test - 
+RF - mip RF 4 different - some different test additional validation
+common test mip night RF system - 840 dgmc - ARC - auth token 
+///
+
+learn more about it - 
+proxy issue - configured to us - 
+some test cases - 13 mip proxy labelled test cases - additional validation 
+can url telemetry
+
+Sprint - get tag makes stand up 
+issues - hold off 1 pm - next research pointer , dgmc go look next day
+couple specifically , off family time - pointer clue phone - 
+exactly try , someone is online , someone might - fairly 3 times.
+researching readily available - one more training - 
+Security - link - click - due - get - 
+=====
+https://github.com/digitalguardian/sasource/pull/15883/commits
+
+run it as admin, 
+-> user or admin - how they run it. 
+-> we document with that tool - access files from all users, 
+-> re-run it - story to document the capabilities / limitations of the tool - 
+   engineering document - add to that. 
+   white paper document - explaining design
+   ReadMe - as DOD - that - recommendation. 
+   really do - Everyone - half way thru file system -, do we pick it up.
+   - middle of it. - Assumptions - of this tool - Audit Trail (what were touch), 
+   removed - 
+   - Performance after design implementation - 
+
+'AG-45621' - field , if they got multiple versions - 7.6.0 - whatever versions, no agent
+at all, based on what they have agent. 
+
+https://github.com/digitalguardian/sasource/commit/e852c824f95478ff642a6690a6ea42beac710a42
+
+Please review the highlighted text in the 9/20/22 attachments. I made a couple of changes to the Critical Notice for the Agent Release Notes. I also added a topic to the Agent Configuration Settings chapter of the DGMC User’s Guide. It’s similar to the Critical Notice, but I added a bit more information and a link to the “Agent Status Values” table, which lists all of the Agent Status values and describes what they mean. 
+
+Go to DGMC
+select System -> Computers -> Find your computer in Dynamic Groups
+select your computer , the click hamburger menu, Upgrade Agents
+Choose Upgrade.zip file you are trying to upgrade to. (Versions do not really matter, you can run this test case for any upgrade between lesser
+agent version to higher agent version.)
+Note the value of Agent Query Interval from hamburger menu, override agent default configuration -> Communication Settings
+Agent will upgrade only after this duration. If you override this value then agent will upgrade after the new duration 
+for Agent Query Interval that had been pushed to the agent.
+Follow this doc from https://digitalguardian.atlassian.net/browse/AG-48054?filter=-1 :
+
+Timing of Change to Agent Upgrade Status in Registry
+When you upgrade the DG Agent using Microsoft Endpoint Configuration Manager (formerly System Center
+Configuration Manager, or SCCM), the DGMC, or an interactive MSI installer, the upgrade status in HKEY_
+LOCAL_MACHINE\SOFTWARE\VDG/status changes only when the upgrade happens.
+The timing of the upgrade depends on the Agent Query Interval setting (accessible in the DGMC from the
+Communication tab in the Core Settings Resource). If the value is 30 minutes, the Agent upgrade starts after
+30 minutes, and the registry status under HKEY_LOCAL_MACHINE\SOFTWARE\VDG/status is updated to 7
+(UPDATE_PENDING) or 6 (UPDATING) at that time.
+If you want the upgrade to start right away, you can use the DG ET utility (dget.exe). The timing of DG ET
+execution and the registry status update do not depend on the Agent Query Interval setting. For information
+on DG ET, see Digital Guardian Utilities Guide.
+
+
+What we have now.
+
+Support - Agent - 6.0, 7.x (few version, ) 7.6.x, 7.7.x 
+Windows Agent - 
+
+whether they use mac , in the future.  
+Have it on Confluence page - 
+
+Specification that it is for Window. 
+
+Requirements - 
+Should start off with Requirements.
+
+Provide a standalone tool which removes tags which are no longer known.
+- Tool must support only windows agents
+- Must provide a log file that lists the files that were updated and what tags were removed.
+
+Like
+Resolve
+Todd Thompson
+February 16, 2022
+Which versions of the agent will this be tested against.
+
+Like
+Todd Thompson
+February 16, 2022
+tool must be  able to be run with any version of the agent or  no agent installed. 
+
+ServerBased OS as well as workstation based OS supported.
+
+
+Like
+Todd Thompson
+February 16, 2022
+Must provide instructions on how to configure and deploy tool. Also if there are any DGMC config changes (For instance we probably want to process flag this utility on the DGMC prior to running)
+
+========================================================================
+    CONSOLE APPLICATION : DGTagCleaner Project Overview
+========================================================================
+
+DGTagCleaner.vcproj
+	A standalone tool which removes tags which are no longer known.
+	Tool is supported only windows agents
+	Creates a log file that lists the files that were updated and what tags were removed.
+	Run on a machine that provides the xml (ClassificationPolicyVersions.xml, ClassificationRulesVersions.xml) files that identify which tags are valid,
+	and be run on network shares or local machines with or without agent.
+	Through ARC report machines with the unknown tags can be found out.
+	Building inside agent more risk, seperate - tool already on agent (xml) 
+    Read xml, scan whatever dir - scan and clearing off those - 
+	run it as a part of dgupdate , run the tool , edr scan , sccm , customers software managedment system to run the tool.
+	scan network shares, some user - xml files, and exe - on box having access to network share - 
+	on each endpoint - overhead - period - forever - once per share
+	unknown tags - permanent - continuosly propagating - thats why it needs to run
+	seen , are permanent - thats the only way it can stay
+	rinse and repeat catch it all, rearer and rearer.
+	Why do we do it multiple times, another agent might have touched that file and propagated file somewhere else
+	it could be copy to their machine, and permanent tag multiplied - moved , A - before - 
+	B - all the machines - eventually - moved to - FS - touched - we will have this issue
+	offline - shut - initial scan - starts to propogate that tag again. 
+	It can linger - operationally - another run , lot of instances - 
+	sometime out. potentially - single host - firm - account - all those shares - for the endpoints.
+	defeats single host, select few - run it local - 
+	get report on where those files are. run it for us, guide, setup the tool on admin host.
+	to pull the trigger. You dont have access to their local endpoints and their network shares.
+	xml files, IP into. Network - separate machine - user - connected to share.
+	Scan local machine, network - run by a user - 
+	Log 
+	Tool - user - 
+	Log the files that its touched to remove the tag - we can log it if not there.
+	it actually removed the tag - , what tag was removed - 
+	Pass, we can add it too. as far as customer - receptent to this tool.
+	Seth is Sherwin - they dont what to see it. Filter on the unknown classification, others
+	often - badly as .
+	introducing policy tags - instruc - control - specific tag name - potentially fire , saw a tag it will fire.
+	updating doc - customers should go about migrating agents from from one env to another - root 
+	move forward - reasonable - operationally - work get around - pushes back if they pull the list path - 
+	single host - process intensive - one system - evidence - log - completes - 3 more times - 
+	based of the reports we are running - i understand process of tool, what are the files - command switches
+	ready - take to the customer, able to run observers - subset of endpoints - showup anywhere - 
+	single - where files are - subset of endpoints - network topology - file share - 
+	removable media - problem - where the files are - 
+	what are the paths - snigle box access to all of that, 
+	buy-in or not - product manager - Alan - report - Bob - somebody else - help - DGMC - arc or 
+	Alan - talk to them find that out, let every know - customer - plan - how once you got plan
+	how to run tool, what files we have - 
+	initial work - next week - rough timeframe - SET 2 weeks - estimate - develop - prod ready - 
+	4 weeks - around - good tags - lot of files - 100% of the CPU - 
+	configurable - how many files per sec to process - 
+	down time - scanner - activitely using - full speed idle, compecated - 
+	effort - keep in minc.
+	
+	last time - options what was causing situation - account wanted as an outcome - support folks - as well as CS guys
+	on Prem - migrated to cloud - care about Orphan tags - error msgs associated with them to disappear
+	email - faster - email message - unknown - errors - CS - on DG insights report - 
+	unknown is a error - mind - alert - relavent to them - Seth - egress chart as unknown - other people in the Org
+	Agent - server - doesnt , rule - content pattern - Bundle dont know ruleId - so we cannot get the name - 
+	nothing agent - server doesnt know about that tag - 
+	ClassificationPolicyVersions - content pattern - number of times its been seen.
+	Id - Dgmc ARC - we dont about - xml - look at that - remove it from the stream - dont get reported - 
+	Side track - remove it - keep it call it user classi tag - other things
+	on prem - became MSP - remove it, it wont address information that they already have - 
+	itself over period time - whatever/however long , 30 days - agents have be upgraded - small number - 
+	bottom - external tool - side - agent - simpler external tool - scan whole FS - unknown - 
+	every single file - is there a unknown tag in there, - how / where we install this tool - 
+	adding it on Agent / performance - run the tool - other - 
+	software - scm - run they can have agent run - could run (SCM - run this ) oh - upgrade to 7.8 
+	run this think - machine server - files - last , certain agent, it has those files - easy way - 
+	who is reporting - certain server they missed - on this website - PM al - package into Agent -
+	server side - drop those unknown tags - middle of bundle processing - classification - does it exist.
+	drop this tag - hack - everytime report is run - ideally - doesnt get rid of underlying data
+	script - ids of unknown - delete - on going - data comes agent - hide - put into DB - and delete it after that
+	try to hide it in some fashion  , 
+	drop it during bundle processing , hide it during reporting - 
+	what agent side - what would be best way to do it, 
+	MSP - just run an update - run executable - 
+	exe - run as a part of EDR scan - can run anything - 
+	artifact explosion - SCSM - package - script - teminate agent, delete the folder, restart
+	MSP - pushing - customer - ourselves - last few reporting - 
+	cleanup was not deployed - how complete that push would be . 
+	MSP guy - Seth support - MSP propose this to them and see what they say 
+	temp - we go thru him, run this by seth MSP - manual - responsible for that account.
+
+Additional capability to that already discussed:
+
+ability to list files that have unknown tags (no removal done)
+
+list files that were processed for unknown tags (permanent and non-permanent) - show pre and post tag count per file
+
+others?
+
+DGTagCleaner.cpp
+    This is the main application source file.
+
+/////////////////////////////////////////////////////////////////////////////
+Other standard files:
+
+StdAfx.h, StdAfx.cpp
+    These files are used to build a precompiled header (PCH) file
+    named DG_DELETE_TAG.pch and a precompiled types file named StdAfx.obj.
+
+/////////////////////////////////////////////////////////////////////////////
+Other notes:
+
+AppWizard uses "TODO:" comments to indicate parts of the source code you
+should add to or customize.
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+itservicedesk@helpsystems.com
+https://dps.helpsystems.com/servicedesk/customer/portal/1
+
+=================
+
+1)git submodule update --init --recursive -f
+ 2)git clean -fdx
+Sync dg3rdparty again
+
+KeyView's fpFilterStream Api error's out when reading a xml file with XML prolog in it.
+For Files with the below XML prolog, fpFilterStream Api returns incorrect bytes read.
+<? xml version= >
+When one of the characters for example - `<` is removed from the XML prolog, fpFilterStream Api
+is able to read the xml file and has the correct number of bytes read in the KVFilterOutput struct
+typedef struct tag_KVFilterOutput
+{
+    BYTE     * pcText;     /* pointer to the text returned              */
+    int      cbText;     /* number of bytes valid in above pointer */
+}
+KVFilterOutput;
+
+
+mon - tues - preshool - 
+friday - home - 
+1 round - 
+
+angelo, santosh, 
+
+1 green - Bob kolsher
+
+2 people in thunderbird - Gary Cambell, Jay Maynard
+
+Charlie Way - Gravity
+
+Andy Wip - 
+
+System test
+
+2 round - more on kernel side
+
+MSI and exe - zip - name zip - install - addi
+rele - unzip and dgk, dgci lighter weight class
+just becoz files happen in same dir
+inlcude this side by side
+fields who is relying on it from happening
+additional flag - what it is going to break 
+wip zip file in same direc - fail
+7.7 4 
+
+ _FC_ Enter DG_CaptureFile()
+   Tracelog 5100 5312   2022/01/20 15:24:59:644 -- _FC_ Leave DG_CaptureFile() Manoj1 maxCapFileSizeMBULL = 2147483648
+   Tracelog 5100 5312   2022/01/20 15:24:59:644 -- _FC_ Leave DG_CaptureFile() Manoj2 ((ULONGLONG)pRec->nMaxCaptureFileSizeMB) = 10
+   Tracelog 5100 5312   2022/01/20 15:24:59:644 -- _FC_ Leave DG_CaptureFile() Manoj3 ((ULONGLONG)g_Cfg.nMaxPerVolumeFileStoreSizeMB) = 2048
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- _FC_ Leave DG_CaptureFile() with status=0x0
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- RuleVariables: CREATE: int "fc_result" type="int" scope="event".
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- RuleVariables: SET: int "fc_result" type="int" scope="event" value="0".
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- , threadId=5312l, bQueued=F, matchesCurrentlyWaitingIrp=F, waitingForResponse=F
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- [DGRULE::ExecBlock] User requested that operation be continued, ptr=efbaa330.
+   Tracelog 5100 5312   2022/01/20 15:24:59:645 -- ExecBlock: EBA_ENCRYPT.  Password=(null), encryptType=1
+   Tracelog 5100 5312   2022/01/20 15:24:59:644 -- _FC_ Leave DG_CaptureFile() Manoj maxCapFileSizeMBULL = 10485760
+
+
+
+   Tracelog 5100 5308   2022/01/20 15:25:07:656 -- _FC_ Enter DG_CaptureFile()
+   Tracelog 5100 5308   2022/01/20 15:25:07:656 -- _FC_ Leave DG_CaptureFile() Manoj maxCapFileSizeMBULL = 10485760
+   Tracelog 5100 5308   2022/01/20 15:25:07:656 -- _FC_ Leave DG_CaptureFile() Manoj1 maxCapFileSizeMBULL = 2147483648
+   Tracelog 5100 5308   2022/01/20 15:25:07:656 -- _FC_ Leave DG_CaptureFile() Manoj2 ((ULONGLONG)pRec->nMaxCaptureFileSizeMB) = 10
+   Tracelog 5100 5308   2022/01/20 15:25:07:656 -- _FC_ Leave DG_CaptureFile() Manoj3 ((ULONGLONG)g_Cfg.nMaxPerVolumeFileStoreSizeMB) = 2048
+
+ // should use config - value if its 
+
+--- a/dgagent/agent/win/DGMaster/IM_FC.c
++++ b/dgagent/agent/win/DGMaster/IM_FC.c
+@@ -538,7 +538,12 @@ NTSTATUS FC_ReadConfig(void)
+         g_Cfg.nDisposition = FC_CFG_CAPTURE_DISPOSITION_SOURCE;
+     }
+
++    LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj Before ReadConfig = %I64u", g_Cfg.nMaxCaptureFileSizeMB);
++
+     g_Cfg.nMaxCaptureFileSizeMB = pGetULONGFromRegistry(paramRegKey, FC_REG_MAX_CAPTURE_FILE_SIZE, 123456);
++
++    LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj ReadConfig = %I64u", g_Cfg.nMaxCaptureFileSizeMB);
++
+     if(g_Cfg.nMaxCaptureFileSizeMB == 123456 || g_Cfg.nMaxCaptureFileSizeMB == 0)
+     {
+         g_Cfg.nMaxCaptureFileSizeMB = 100;
+@@ -1305,7 +1310,14 @@ NTSTATUS _FC_SingleFileAction(IN INTERNAL_EVENT* pEvt, IN IM_FC_Record* pRec, WC
+         // Also, make sure the captured file is smaller than the Max per volume File Store Size
+         ULONGLONG maxCapFileSizeMBULL = ((ULONGLONG)pRec->nMaxCaptureFileSizeMB) * FC_MB;
+         ULONGLONG maxCapFileStoreSizeULL = ((ULONGLONG)g_Cfg.nMaxPerVolumeFileStoreSizeMB) * FC_MB;
+-        if (pRec->nFileSizeAtDetection > maxCapFileSizeMBULL || pRec->nFileSizeAtDetection > maxCapFileStoreSizeULL)
++
++        LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj maxCapFileSizeMBULL = %I64u", maxCapFileSizeMBULL);
++        LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj0 nFileSizeAtDetection = %I64u", pRec->nFileSizeAtDetection);
++        LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj1 maxCapFileSizeMBULL = %I64u", maxCapFileStoreSizeULL);
++        LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj2 ((ULONGLONG)pRec->nMaxCaptureFileSizeMB) = %I64u", ((ULONGLONG)pRec->nMaxCaptureFileSizeMB));
++        LogString(LOGLEVEL_VERBOSE, "_FC_ Leave DG_CaptureFile() Manoj3 ((ULONGLONG)g_Cfg.nMaxPerVolumeFileStoreSizeMB) = %I64u", ((ULONGLONG)g_Cfg.nMaxPerVolumeFileStoreSizeMB));
++
++        if  (pRec->nFileSizeAtDetection > maxCapFileSizeMBULL || pRec->nFileSizeAtDetection > maxCapFileStoreSizeULL)
+         {
+             pRec->nLastError = FC_ERR_FILE_TOO_BIG;
+             bNeedToCopy      = FALSE;
+diff --git a/dgagent/agent/win/DgAgent/DataProcessor.cpp b/dgagent/agent/win/DgAgent/DataProcessor.cpp
+index bc4465ea97..0aba27a41b 100644
+--- a/dgagent/agent/win/DgAgent/DataProcessor.cpp
++++ b/dgagent/agent/win/DgAgent/DataProcessor.cpp
+@@ -1890,8 +1890,27 @@ bool CDataProcessor::DoThreadWork()
+             }
+
+             // if any file capture related settings have changed, we need to notify the kernel
+-            if (FileCaptureFeatureConfigurationChanged(changedSettings) && UpdateFileCaptureConfiguration())
++            if (FileCaptureFeatureConfigurationChanged(changedSettings) && UpdateFileCaptureConfiguration()) {
++
++                g_log.printf(LOGHEADER_NONE,
++#ifdef DEBUG
++                    LOGLEVEL_VERBOSE,
++#else
++                    LOGLEVEL_UBER_LEVEL_OF_DETAIL,
++#endif
++                    _F("Manoj DataProcessor "));
+                 g_MasterDriver.FileCaptureOnConfigChange();
++            }
++            else {
++
++                g_log.printf(LOGHEADER_NONE,
++#ifdef DEBUG
++                    LOGLEVEL_VERBOSE,
++#else
++                    LOGLEVEL_UBER_LEVEL_OF_DETAIL,
++#endif
++                _F("Manoj Not changed DataProcessor "));
++            }
+
+             if (m_pDDNAProcessor)
+             {
+
+Numeral recognition 1-100
+Count by correspondence 1-30
+Classification by color, size, and shape
+Left to right progression
+Calendar skills
+Numeral printing
+Graphing
+Addition and subtraction
+
+Calendar skills
+Numeral printing 1-100
+Geometric shapes
+Measurement
+Development of strong number sense
+Graphing
+Place value, addition, and subtraction
+Time and moneys
+Numerical sequence
+Classifying and sorting by numbers
+Patterns
+
+#include "stdafx.h"
+#include "DgMaster.h"
+
+#include "hippomocks.h"
+#include "gtest/gtest.h"
+
+#include "Logging.h"
+#include "..\DgAgent\CFileCapture.h"
+#include "../../common/include/ILogger.h"
+
+#include <map>
+#include <string>
+#include <memory>
+
+#include "boost/filesystem.hpp"
+
+namespace df = dgboost::filesystem;
+
+static DgLog s_log;
+// instance used by the artifact queue
+static DgLogger s_logger(&s_log);
+
+class CFileCaptureTester : public CFileCapture
+{
+public:
+
+    explicit CFileCaptureTester::CFileCaptureTester() : CFileCapture()
+    {}
+    using CFileCapture::Initialize;
+};
+
+using file_capture_ptr_t = std::shared_ptr<CFileCaptureTester>;
+
+class CArtifactQueueTester : public CArtifactQueue
+{
+public:
+
+    explicit CArtifactQueueTester::CArtifactQueueTester(ILogger* logger) : CArtifactQueue(logger)
+    {}
+    using CArtifactQueue::Initialize;
+};
+
+using artifact_queue_ptr_t = std::shared_ptr<CArtifactQueueTester>;
+
+class CFileCaptureTests : public ::testing::Test
+{
+public:
+    CFileCaptureTests()
+    {
+        //testrootdir = df::temp_directory_path() / df::unique_path();
+        //testrootdir1 = df::temp_directory_path();
+        //tmpFile = testrootdir / L"ClassifyFile-handle.txt";
+        //tmpFile1 = testrootdir1 / L"ClassifyFile-handle.txt";
+        //myHandle = CreateFileW(tmpFile.c_str(), GENERIC_READ | GENERIC_WRITE, 0, 0, OPEN_EXISTING, 0, 0);
+    }
+
+    ~CFileCaptureTests()
+    {
+        /*if (myHandle != NULL)
+        {
+            CloseHandle(myHandle);
+        }*/
+
+        dgboost::system::error_code ec;
+        //df::remove_all(testrootdir, ec);
+    }
+
+protected:
+    DgLogger g_logger;
+    //df::path testrootdir;
+    //df::path testrootdir1;
+    //df::path tmpFile;
+    //df::path tmpFile1;
+    //HANDLE myHandle = NULL;
+    static PARAMETER_MAP artifact_queue_parameters;
+
+    void InitCFileCapture(file_capture_ptr_t& file_capture_ptr);
+    void InitArtifact(artifact_queue_ptr_t& artifact_queue_ptr);
+
+    std::unique_ptr<MockRepository> mockptr;
+    file_capture_ptr_t file_capture_ptr;
+    artifact_queue_ptr_t artifact_queue_ptr;
+    void SetUp() override;
+    void TearDown() override;
+
+    void MockFunctionsForClassifyFile()
+    {
+        HANDLE local = (HANDLE)200;
+        
+        mockptr->OnCallFunc(CreateFileW).With(_, GENERIC_READ | GENERIC_WRITE, 0, _, _, _, _).Do([local](LPCWSTR lpFileName,
+            DWORD dwDesiredAccess,
+            DWORD dwShareMode,
+            LPSECURITY_ATTRIBUTES lpSecurityAttributes,
+            DWORD dwCreationDisposition,
+            DWORD dwFlagsAndAttributes,
+            HANDLE hTemplateFile) {
+                return local;
+            });
+
+        // mock CloseHandle for close
+        mockptr->OnCallFunc(CloseHandle).With(local).Do([](HANDLE hobject) {
+            return TRUE;
+            });
+
+        mockptr->OnCallFunc(DeviceIoControl)
+            .Do([](HANDLE hDevice, DWORD dwIoControlCode, LPVOID lpInBuffer, DWORD nInBufferSize,
+                LPVOID lpOutBuffer, DWORD nOutBufferSize, LPDWORD lpBytesReturned, LPOVERLAPPED lpOverlapped) {
+
+                    if (IOCTL_DGAPIMON_CLASSIFYENCRYPTION_CHECK == dwIoControlCode)
+                    {
+                        PDGAPIMON_CLASSIFYENCRYPT_QUERY_RESULT qRet = (DGAPIMON_CLASSIFYENCRYPT_QUERY_RESULT*)lpOutBuffer;
+                        qRet->doBJUC = TRUE;
+                        qRet->ruleIndicateToContentInspect = TRUE;
+                        qRet->ruleIndicateToDocProperty = TRUE;
+                        qRet->rulesIndicateToClassify = TRUE;
+                        qRet->Initialized = TRUE;
+
+                        *lpBytesReturned = sizeof(DGAPIMON_CLASSIFYENCRYPT_QUERY_RESULT);
+                    }
+
+                    if (IOCTL_DGAPIMON_IS_FILE_EXCLUDED_FROM_CLASSIFICATION == dwIoControlCode)
+                    {
+                        ULONG* pResult = (ULONG*)lpOutBuffer;
+                        *pResult = 0;
+                    }
+
+                    return TRUE;
+                });
+    }
+};
+PARAMETER_MAP CFileCaptureTests::artifact_queue_parameters;
+
+//////////////////////////////////////////////////////////
+// Mock CCIProcessor::PostDgAdminClassifyRequest
+bool(CArtifactQueue::* add_meta_data_ptr)(const PARAMETER_MAP& map,
+    const ArtifactType artifactType,
+    const wchar_t* srcUri,
+    const wchar_t* mimeType,
+    const CompressionType compressionType,
+    const E_DG_ENCRYPTION_TYPE encryptionType,
+    const ConsumptionType consumptionType,
+    const ALG_ID hashAlgorithm,
+    GUID* artifactId) = &CArtifactQueue::AddWithMetadata; // get member function address
+
+bool(*cartifact_queue_add_meta_data)(CArtifactQueue*) = reinterpret_cast<bool(*)(CArtifactQueue*)>((void*&)add_meta_data_ptr); // convert it to required address type
+
+
+void CFileCaptureTests::SetUp()
+{
+    //ASSERT_TRUE(df::create_directories(testrootdir)) << "Failed to create \"" << testrootdir << "\"";
+    
+    //printf("Created path tmpFile : %s \n", tmpFile.c_str());
+    //printf("Created path tmpFile1 : %s \n", tmpFile1.c_str());
+    //printf("Created path testrootdir : %s \n", testrootdir.c_str());
+    //printf("Created path testrootdir1 : %s \n", testrootdir1.c_str());
+
+    mockptr.reset(new (std::nothrow) MockRepository);
+    ASSERT_NE(nullptr, mockptr);
+    // An instance of CArtifact uses CArtifactQueue::GetInstance() to retrieve the log object
+
+    mockptr->OnCallFuncOverload(static_cast<std::shared_ptr<CFileCapture>(*)()>(&CFileCapture::GetInstance))
+        .Do([this]() -> std::shared_ptr<CFileCapture>
+            {
+                printf("CFileCapture::GetInstance : \n");
+
+                return file_capture_ptr;
+            });
+
+    mockptr->OnCallFuncOverload(static_cast<std::shared_ptr<CArtifactQueue>(*)()>(&CArtifactQueue::GetInstance))
+        .Do([this]() -> std::shared_ptr<CArtifactQueue>
+            {
+                printf("CArtifactQueue::GetInstance : \n");
+                return artifact_queue_ptr;
+            });
+
+    mockptr->OnCallFuncOverload(cartifact_queue_add_meta_data).Return(true); // not getting mocked.  fails if expectcall instead of oncall. 
+
+    /*mockptr->OnCallFuncOverload(static_cast<bool(*)()>(&CArtifactQueue::AddWithMetadata))
+        .Do([this](const PARAMETER_MAP& map,
+            const ArtifactType artifactType,
+            const wchar_t* srcUri,
+            const wchar_t* mimeType,
+            const CompressionType compressionType,
+            const E_DG_ENCRYPTION_TYPE encryptionType,
+            const ConsumptionType consumptionType,
+            const ALG_ID hashAlgorithm,
+            GUID* artifactId) -> bool 
+            {
+                return true;
+            });*/
+
+    /*mockptr->OnCallFuncOverload(bool(*)()(&CArtifactQueue::AddWithMetadata))
+        .Do([](const PARAMETER_MAP& map,
+        const ArtifactType artifactType,
+        const wchar_t* srcUri,
+        const wchar_t* mimeType,
+        const CompressionType compressionType,
+        const E_DG_ENCRYPTION_TYPE encryptionType,
+        const ConsumptionType consumptionType,
+        const ALG_ID hashAlgorithm,
+        GUID* artifactId) {
+            return true;
+        });*/
+
+    mockptr = std::make_unique<MockRepository>();
+}
+
+void CFileCaptureTests::TearDown()
+{
+    mockptr.reset();
+    file_capture_ptr.reset();
+
+    dgboost::system::error_code ec;
+
+    //ASSERT_NO_THROW(df::remove_all(testrootdir, ec));
+    //ASSERT_FALSE(df::exists(testrootdir));
+}
+
+void CFileCaptureTests::InitArtifact(artifact_queue_ptr_t& artifact_queue_ptr)
+{
+    artifact_queue_ptr.reset(new (std::nothrow) CArtifactQueueTester(&s_logger));
+    ASSERT_NE(nullptr, artifact_queue_ptr);
+
+    // Initialize will process the existing records in the database
+    ASSERT_TRUE(artifact_queue_ptr->Initialize(&artifact_queue_parameters));
+}
+
+void CFileCaptureTests::InitCFileCapture(file_capture_ptr_t& file_capture_ptr)
+{
+    file_capture_ptr.reset(new (std::nothrow) CFileCaptureTester());
+    ASSERT_NE(nullptr, file_capture_ptr);
+
+    // Initialize will process the existing records in the database
+    ASSERT_TRUE(file_capture_ptr->Initialize());
+}
+
+// Serialize and deserialize key and value that do not exceed the standard lengths
+TEST_F(CFileCaptureTests, RetrieveCapturedFile)
+{
+    InitCFileCapture(file_capture_ptr);
+    wchar_t recordId[64] = { 0 };
+    
+    HANDLE local = (HANDLE)200;
+
+    WIN32_FILE_ATTRIBUTE_DATA fad = { 0 };
+    DWORD dwBytesRead = sizeof(PIM_FC_Record);
+    
+    /*mockptr->OnCallFunc(GetFileAttributesEx).Do([&fad](
+        _In_ LPCWSTR lpFileName,
+        _In_ GET_FILEEX_INFO_LEVELS fInfoLevelId,
+        _Out_writes_bytes_(sizeof(WIN32_FILE_ATTRIBUTE_DATA)) LPVOID lpFileInformation) {
+
+            //std::cout << "GetFileAttributesEx0" << std::endl;
+
+            //fad.nFileSizeLow = sizeof(PIM_FC_Record);
+
+            //std::cout << "GetFileAttributesEx1" << std::endl;
+
+            return true;
+        });*/
+
+    //mockptr->OnCallFunc(WaitForSingleObject).With(_, 0).Return(WAIT_OBJECT_0 + 1);
+
+    /*mockptr->OnCallFunc(GetFileAttributesEx).With(_, _, _).Do([&fad](
+        _In_ LPCWSTR lpFileName,
+        _In_ GET_FILEEX_INFO_LEVELS fInfoLevelId,
+        _Out_writes_bytes_(sizeof(WIN32_FILE_ATTRIBUTE_DATA)) LPVOID lpFileInformation) {
+            std::cout << "GetFileAttributesEx0" << std::endl;
+
+            fad.nFileSizeLow = sizeof(PIM_FC_Record);
+
+            std::cout << "GetFileAttributesEx1" << std::endl;
+
+            return true;
+        });*/
+
+    /*mockptr->OnCallFunc(CreateFile).With(_, GENERIC_READ | GENERIC_WRITE, 0, _, _, _, _).Do([local](LPCWSTR lpFileName,
+        DWORD dwDesiredAccess,
+        DWORD dwShareMode,
+        LPSECURITY_ATTRIBUTES lpSecurityAttributes,
+        DWORD dwCreationDisposition,
+        DWORD dwFlagsAndAttributes,
+        HANDLE hTemplateFile) {
+            return local;
+        });*/
+
+    // hFile, pRecord, fad.nFileSizeLow, & dwBytesRead, NULL
+
+
+    MockRepository mock;
+    // Mock GetFileAttributesExW
+    static WIN32_FILE_ATTRIBUTE_DATA fa;
+    ZeroMemory(&fa, sizeof(fa));
+    fa.nFileSizeHigh = 0x1;
+    fa.nFileSizeLow = 0x2;
+    mock.OnCallFunc(GetFileAttributesExW).Do([](LPCWSTR lpFileName, GET_FILEEX_INFO_LEVELS fInfoLevelId, LPVOID lpFileInformation) {
+        *((WIN32_FILE_ATTRIBUTE_DATA*)lpFileInformation) = fa;
+        return TRUE;
+        });
+
+    // mock CreateFileW for driver open handle
+
+    mock.OnCallFunc(CreateFileW).Return((HANDLE)200);
+    // mock CloseHandle for close
+    mock.OnCallFunc(CloseHandle).With((HANDLE)200).Return(TRUE);
+
+
+    static IM_FC_Record pRecord;
+    ZeroMemory(&pRecord, sizeof(pRecord));
+    pRecord.nLastError = FC_ERR_FILE_TOO_BIG;
+
+    mockptr->OnCallFunc(ReadFile).Do([](HANDLE hFile,
+        LPVOID lpBuffer,
+        DWORD nNumberOfBytesToRead,
+        LPDWORD lpNumberOfBytesRead,
+        LPOVERLAPPED lpOverlapped) {
+            *((IM_FC_Record*)lpBuffer) = pRecord;
+        });
+
+    
+    /*)With(_, _, _, _, _).Do([pRecord](
+        _In_ HANDLE hFile,
+        _Out_writes_bytes_to_opt_(nNumberOfBytesToRead, *lpNumberOfBytesRead) __out_data_source(FILE) LPVOID lpBuffer,
+        _In_ DWORD nNumberOfBytesToRead,
+        _Out_opt_ LPDWORD lpNumberOfBytesRead,
+        _Inout_opt_ LPOVERLAPPED lpOverlapped
+    ) {
+        pRecord->nLastError = FC_ERR_FILE_TOO_BIG;
+        return true;
+    });*/
+
+    // mock CloseHandle for close
+    /*mockptr->OnCallFunc(CloseHandle).With(local).Do([](HANDLE hobject) {
+        return TRUE;
+        });*/
+
+
+    // const wchar_t *recordId, const ArtifactType artifactType, const wchar_t *mimeType, 
+    // const CompressionType compressionType, const E_DG_ENCRYPTION_TYPE encryptionType, const ConsumptionType consumptionType, const ALG_ID hashAlgorithm, GUID *artifactId
+    // ASSERT_TRUE(file_capture_ptr->ProcessFileCaptureRecords());
+
+    GUID artifactId = { 0 };
+
+    ASSERT_TRUE(file_capture_ptr->RetrieveCapturedFile(_F(""), ArtifactType::FC, FC_DEFAULT_MIME_TYPE,
+        FC_DEFAULT_COMPRESSION_TYPE, FC_DEFAULT_ENCRYPTION_TYPE, FC_DEFAULT_CONSUMPTION_TYPE,
+        FC_DEFAULT_HASH_ALGORITHM, &artifactId));
+
+    /*file_capture_ptr->RetrieveCapturedFile(recordId, ArtifactType::FC, FC_DEFAULT_MIME_TYPE,
+        FC_DEFAULT_COMPRESSION_TYPE, FC_DEFAULT_ENCRYPTION_TYPE, FC_DEFAULT_CONSUMPTION_TYPE,
+        FC_DEFAULT_HASH_ALGORITHM, &artifactId);*/
+
+}
+
+7.7.5 - documentation - ready documentation
+
+performance - Unknown tags
+
+===================================
+#include "stdafx.h"
+#include "DgMaster.h"
+
+#include "hippomocks.h"
+#include "gtest/gtest.h"
+
+#include "Logging.h"
+#include "..\DgAgent\CFileCapture.h"
+#include "../../common/include/ILogger.h"
+
+#include <map>
+#include <string>
+#include <memory>
+
+#include "boost/filesystem.hpp"
+
+class CFileCaptureTester : public CFileCapture
+{
+public:
+
+    explicit CFileCaptureTester::CFileCaptureTester() : CFileCapture()
+    {}
+};
+
+using file_capture_ptr_t = std::shared_ptr<CFileCaptureTester>;
+
+class CFileCaptureTests : public ::testing::Test
+{
+public:
+    CFileCaptureTests()
+    {
+    }
+
+    ~CFileCaptureTests()
+    {
+    }
+
+protected:
+    void InitCFileCapture(file_capture_ptr_t& file_capture_ptr);
+
+    file_capture_ptr_t file_capture_ptr;
+    void SetUp() override {
+    }
+    void TearDown() override {
+        file_capture_ptr.reset();
+    }
+};
+
+void CFileCaptureTests::InitCFileCapture(file_capture_ptr_t& file_capture_ptr)
+{
+    file_capture_ptr.reset(new (std::nothrow) CFileCaptureTester());
+    ASSERT_NE(nullptr, file_capture_ptr);
+}
+
+// Calls RetrieveCapturedFile, and make sures the function exits when File records mLastError is FC_ERR_FILE_TOO_BIG
+TEST_F(CFileCaptureTests, RetrieveCapturedFileTooBigFile)
+{
+    InitCFileCapture(file_capture_ptr);
+    wchar_t recordId[64] = { 0 };
+    
+    HANDLE local = (HANDLE)200;
+
+    WIN32_FILE_ATTRIBUTE_DATA fad = { 0 };
+    DWORD dwBytesRead = sizeof(PIM_FC_Record);
+
+    MockRepository mock;
+    static WIN32_FILE_ATTRIBUTE_DATA fa;
+    ZeroMemory(&fa, sizeof(fa));
+    fa.nFileSizeHigh = 0x1;
+    fa.nFileSizeLow = 0x2;
+    mock.OnCallFunc(GetFileAttributesExW).Do([](LPCWSTR lpFileName, GET_FILEEX_INFO_LEVELS fInfoLevelId, LPVOID lpFileInformation) {
+        *((WIN32_FILE_ATTRIBUTE_DATA*)lpFileInformation) = fa;
+        return TRUE;
+        });
+
+    mock.OnCallFunc(CreateFile).Return((HANDLE)200);
+    // mock CloseHandle for close
+    mock.OnCallFunc(CloseHandle).With((HANDLE)200).Return(TRUE);
+
+    static IM_FC_Record pRecord;
+    ZeroMemory(&pRecord, sizeof(pRecord));
+    pRecord.nLastError = FC_ERR_FILE_TOO_BIG;
+    IM_FC_Record *block = &pRecord;
+
+    mock.OnCallFunc(ReadFile).Do([](HANDLE hFile,
+        LPVOID lpBuffer,
+        DWORD nNumberOfBytesToRead,
+        LPDWORD lpNumberOfBytesRead,
+        LPOVERLAPPED lpOverlapped) {
+            ((IM_FC_Record*)lpBuffer)->nLastError = FC_ERR_FILE_TOO_BIG;
+            //*((IM_FC_Record*)lpBuffer) = pRecord;
+            *((DWORD*)lpNumberOfBytesRead) = fa.nFileSizeLow;
+            return TRUE;
+        });
+
+    /*mock.OnCallFunc(free).Do([](void* mem) {
+        mem = NULL;
+        });*/
+
+    // mock.OnCallFunc(free);
+    
+    GUID artifactId = { 0 };
+
+    ASSERT_TRUE(file_capture_ptr->RetrieveCapturedFile(_F(""), ArtifactType::FC, FC_DEFAULT_MIME_TYPE,
+        FC_DEFAULT_COMPRESSION_TYPE, FC_DEFAULT_ENCRYPTION_TYPE, FC_DEFAULT_CONSUMPTION_TYPE,
+        FC_DEFAULT_HASH_ALGORITHM, &artifactId));
+}
+
+830 - 3, 2 friday
+asses- pass
+44062
+
+if we give x systems
+45468
+
+         cbTotal += filterOut.cbText;
++
++        char str[(sizeof filterOut.pcText) + 1];
++        memcpy(str, filterOut.pcText, sizeof filterOut.pcText);
++        str[sizeof filterOut.pcText] = 0; // Null termination.
++
++        g_logger->LogStringV(LOGHEADER_NONE, LOGLEVEL_ERROR,
++            _F("Manoj TextFilter size =%d bytes data : %s"), filterOut.cbText, str);
+
+
+https://github.com/digitalguardian/sasource/commit/a2c7bc08a697cc7903a8ddbc4bb2ddce9c5ccd93
+
+https://github.com/digitalguardian/sasource/pull/14008
+
+prcFlags.dat - dgtagcleaner.exe - 
+handling unknown tags, and another on custome satisfaction towards bug fixing and screening.
+, and another on custome satisfaction towards bug fixing and screening.
+
+handling unknown tags for customer seeing tags that are obselete.
+
+Did screen customer bugs when in sprint cycles, Made sure the the bugs reported had DgDiag (logs), reproduceable environment, is really a bug, and if there was any other additional information required, before moving it ready state.
+
+Addressed customer bugs AG-43932, AG-45468 with code changes and unit tests, and found thirdparty library issue (Microfocus) with AG-45370. and AG-43488. Also addressed directly or indirectly Telemetry stories AG-42963, AG-42967
+
+
+
+AG-43932 : Documentation -  
+When a request to capture a file from DGMC is made, a fix to the Agent code base was made
+to check for the File's size and disallow capture request for files with size larger than
+the configured value for Max Capture File Size setting on DGMC.
+
+ * Finds tags that overlapp between the policy xml file and current file's tags.
+ * Deletes the tags that donot overlap between the policy xml file and current file's tags.
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	int logLevel = LOGLEVEL_ERROR; // default to error only
+	DgLogger logger(&g_log);
+	g_log.Open(_T("DgTagcleaner.log"), logLevel, false, 5, (10 * 1024 * 1024));
+
+	DG_TAG_CLEANER_STATUS status = DG_TAG_CLEANER_STATUS::DG_TAG_CLEANER_SUCCESS;
+	DG_TAG_CLEANER_CONFIG config = { 0 };
+	DWORD dwStatus = 0;
+	PATH_SET pathSet;
+	__int64 start, end;
+	__int64 freq;
+
+	DGQueryPerformanceFrequency((LARGE_INTEGER*)&freq);
+	DGQueryPerformanceCounter((LARGE_INTEGER*)&start);
+
+	do
+	{
+		bool parsedAllRequiredArgs = ParseCommandLine(argc, argv, config, pathSet);
+		if (argc == 1 || !parsedAllRequiredArgs)
+		{
+			Usage(argc, argv);
+			status = DG_TAG_CLEANER_STATUS::DG_TAG_CLEANER_INVALID_ARG;
+			break;
+		}
+		else if (parsedAllRequiredArgs) {
+			if ((status = ValidateArguments(config, pathSet)) != DG_TAG_CLEANER_STATUS::DG_TAG_CLEANER_ARG_OK) {
+				break;
+			}
+		}
+
+		if (!config.recursive) {
+			wprintf(_F("Warning -r was not provided, recursive scan will not be done, current directory is the only one that will be processed for unknown tags.\n"));
+		}
+
+		if (mPolicyVersionInfoList.empty()) {
+			status = ProcessPolicyXml(config, config.szPolicyXml);
+		}
+		if (mRuleVersionInfoList.empty()) {
+			status = ProcessRulesXml(config, config.szRuleXml);
+		}
+
+		DWORD dwStatus = g_DGAPIMon.Open();
+
+		status = ProcessDirectories(config, pathSet);
+
+	} while (false);
+
+	if (status != DG_TAG_CLEANER_STATUS::DG_TAG_CLEANER_SUCCESS) {
+		wprintf(_F("Exit reason: %hs\n"), statusToString(status));
+		g_log.printf(LOGHEADER_INFO, LOGLEVEL_ERROR, _F("Exit reason:  %hs\n"), statusToString(status));
+		return 1;
+	}
+	
+	DGQueryPerformanceCounter((LARGE_INTEGER*)&end);
+
+	double Duration = (double)(end - start) / (double)freq;
+
+	g_log.printf(LOGHEADER_INFO, LOGLEVEL_ERROR, _F("[%hs] Duration = %0.6lf sec\n"), __FUNCTION__, Duration);
+
+	DWORD dwStatus = g_DGAPIMon.Close();
+
+	return status == DG_TAG_CLEANER_STATUS::DG_TAG_CLEANER_SUCCESS ? 0 : 1;
+}
+dgtagcleaner.exe -rmtags -r -p C:\Users\jfusco\Downloads\3 -pfile C:\Users\jfusco\Downloads\3\ClassificationPolicyVersion.xml -rfile C:\Users\jfusco\Downloads\3\ClassificationRuleVersion.xml -v
+
+his happens because of
+                {prefix: metric_names.AgentCorePrefix,
+                        endpoint: ulyssesmsgs.Endpoints_EndpointDgAgent.String(),
+                },
+                {prefix: metric_names.DgAgentPrefix,
+                        endpoint:  ulyssesmsgs.Endpoints_EndpointDgAgent.String(),
+                        statNames: []string{},
+                },
+in statspoller.go
+although there is a “statNames” field there, when an endpoint is polled all the stats from that endpoint are placed under the given prefix.
+So because we are polling EndpointDgAgent twice, we get two copies of the stats under the two prefix
+
+Ken Descoteaux:spiral_calendar_pad:  1 hour ago
+I think they originated from two different platforms  (Windows and Mac)
+
+Bug Fix Manoj - 
+After Merge - Look for Nightly (Move it to Verify state)
+Verifying state - I am verifying the AutoNightly - by comparing build number after checkIn 
+and build number before checkIn.
+Check WR numbers , and RF- machine numbers 
+Once Verified - move it to Done state.
+
+https://digitalguardian.atlassian.net/browse/AG-48872
+
+estim, settlem
+owe 
+withhold
+later
+mon
+
+session 0 user session, process 0, may come in from network, file server - user reques - over - sess 0, and in all user sessions currently on the mach, process an d
+mana - hangs kills, new one - manager - router -
+ dgapi, dgfsmon, busy, avail, 1 
+processes, busy, running , multi processes running , dgAdmin, killable session 0 , user's session, 
+running as the user, code imper - acces to network token , KV, Edu hang how to process session , token
+KV Ed - files kill process restart - re-integra - move it over - MIP for mac
+Go lang - split dgAdmin into pieces -  put behind DgAdmin - user's session
+not logged in - what happens session 0 
+to those session - it will run session 0
+how can - scheduled task activi - network
+remote machi - access  
+lgged - sche
+sess 0 
+saying time 0, remote access your fi
+MIP - acess - s 0, does get - per - to certain 
+email : susan - 
+need 
+deadline - 
+proof - , birthday
+
+next physical - 
+
+tb , immuni - before school
+
+heath immuni
+
+immu - doctor - call - yello - form - - kaiser 
+
+health phy - necessaru - appt - 
+
+TB form - physica - 
+
+https://confluence.verdasys.com:8443/display/CON/How+to+work+with+Implicit+Filters+and+File+Types
+
+#include "stdafx.h"
+#include "..\DgAgent\AgentConfig.h"
+#include "..\DgAgent\CFileCapture.h"
+#include "Logging.h"
+#include "boost/filesystem.hpp"
+#include <string>
+
+#include "hippomocks.h"
+#include "gtest\gtest.h"
+
+namespace df = dgboost::filesystem;
+
+extern DgLog g_log;
+extern DgLogger g_logger;
+
+
+// Override DgLog methods to redirect log message to a string for verification
+class DgLogTester : public DgLog
+{
+public:
+    std::wstring logMessages;
+
+protected:
+    virtual bool _EnsureLogIsOpen() override
+    {
+        return true;
+    }
+    virtual int _LogMsg(LPCTSTR header, LPCTSTR msg) override
+    {
+        logMessages.append(msg);
+        return 100;
+    }
+};
+
+class CFileCaptureTester : public CFileCapture
+{
+    bool (CFileCaptureTester::*pfnCFileCapture)(const wchar_t *,
+                                                const wchar_t *) = &CFileCaptureTester::ProcessFileCaptureRecord;
+    bool (*CFileCaptureTester_pfc)(CFileCaptureTester *) =
+        reinterpret_cast<bool (*)(CFileCaptureTester *)>((void *&)pfnCFileCapture);
+
+    void (CFileCaptureTester::*pfnHErr)() =
+        &CFileCaptureTester::HandleProcessFileCaptureRecordError;
+    void (*CFileCaptureTester_pfcHErr)() =
+        reinterpret_cast<void (*)()>((void *&)pfnHErr);
+
+private:
+    df::path testrootdir;
+    std::wstring testAgentDir;
+
+public:
+    CFileCaptureTester()
+    {
+        testrootdir = df::temp_directory_path() / df::unique_path();
+        df::create_directories(testrootdir);
+        testAgentDir = testrootdir.wstring() + _T("\\");
+        m_rootPath.Append(testAgentDir.c_str());
+
+        df::path records = testrootdir / FC_RECORDS_FOLDER_NAME;
+        df::create_directories(records);
+
+        df::path complete = records / FC_COMPLETE_RECORD_FOLDER_NAME;
+        df::create_directories(complete);
+
+        df::path pending = records / FC_PENDING_RECORD_FOLDER_NAME;
+        df::create_directories(pending);
+
+        char val = '1';
+        for (int ct = 1; ct <= m_maxErrCt+1; ct++)
+        {
+            df::path fileName = std::string(1, val) + ".rec";
+            df::ofstream file;
+            file.open(pending / fileName);
+            file.close();
+            val++;
+        }
+    }
+
+    bool ProcessFileCaptureRecords()
+    {
+        MockRepository mocks;
+        mocks.OnCallFuncOverload(CFileCaptureTester_pfc).Return(false);
+
+        mocks.OnCallFuncOverload(CFileCaptureTester_pfcHErr).Do([this]() -> void { ErrorHandled = true; });
+
+        return CFileCapture::ProcessFileCaptureRecords();
+    }
+
+    using CFileCapture::HandleProcessFileCaptureRecordError;
+    using CFileCapture::ProcessFileCaptureRecord;
+
+    ~CFileCaptureTester()
+    {
+        dgboost::system::error_code ec;
+        df::remove_all(testrootdir, ec);
+    }
+    bool ErrorHandled = false;
+};
+
+class FileCaptureTestFixture : public ::testing::Test
+{
+public:
+
+protected:
+    DgLogTester testLogger;
+
+    FileCaptureTestFixture()
+    {
+        testLogger.SetLogLevel(LOGLEVEL_DEBUG);
+        g_logger.setLog(&testLogger);
+    }
+
+    virtual ~FileCaptureTestFixture()
+    {
+        g_logger.setLog(NULL);
+    }
+
+protected:
+
+    void SetUp() override
+    {
+
+    }
+    void TearDown() override
+    {
+        testLogger.logMessages.clear();
+    }
+};
+
+TEST_F(FileCaptureTestFixture, TestFileLoop)
+{
+    std::unique_ptr<CFileCaptureTester> fc = std::make_unique<CFileCaptureTester>();
+    fc->ProcessFileCaptureRecords();
+
+    EXPECT_TRUE(fc->ErrorHandled);
+}
+
+// Calls RetrieveCapturedFile, and make sures the function exits when File records mLastError is FC_ERR_FILE_TOO_BIG
+TEST_F(FileCaptureTestFixture, RetrieveCapturedFileTooBigFile)
+{
+    std::unique_ptr<CFileCaptureTester> fc = std::make_unique<CFileCaptureTester>();
+
+    WIN32_FILE_ATTRIBUTE_DATA fad = { 0 };
+    DWORD dwBytesRead = sizeof(PIM_FC_Record);
+
+    MockRepository mock;
+    static WIN32_FILE_ATTRIBUTE_DATA fa;
+    ZeroMemory(&fa, sizeof(fa));
+    fa.nFileSizeHigh = 0x1;
+    fa.nFileSizeLow = 0x2;
+    mock.OnCallFunc(GetFileAttributesExW).Do([](LPCWSTR lpFileName, GET_FILEEX_INFO_LEVELS fInfoLevelId, LPVOID lpFileInformation) {
+        *((WIN32_FILE_ATTRIBUTE_DATA*)lpFileInformation) = fa;
+        return TRUE;
+        });
+
+    //mock.OnCallFunc(CreateFile).Return((HANDLE)200);
+
+    HANDLE local = (HANDLE)200;
+    mock.OnCallFunc(CreateFileW).With(_, GENERIC_READ, 0, _, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, _).Do([local](LPCWSTR lpFileName,
+        DWORD dwDesiredAccess,
+        DWORD dwShareMode,
+        LPSECURITY_ATTRIBUTES lpSecurityAttributes,
+        DWORD dwCreationDisposition,
+        DWORD dwFlagsAndAttributes,
+        HANDLE hTemplateFile) {
+            return local;
+        });
+
+    // mock CloseHandle for close
+    mock.OnCallFunc(CloseHandle).With(local).Do([](HANDLE hobject) {
+        return TRUE;
+        });
+
+
+    mock.OnCallFunc(ReadFile).Do([](HANDLE hFile,
+        LPVOID lpBuffer,
+        DWORD nNumberOfBytesToRead,
+        LPDWORD lpNumberOfBytesRead,
+        LPOVERLAPPED lpOverlapped) {
+            ((IM_FC_Record*)lpBuffer)->nLastError = FC_ERR_FILE_TOO_BIG;
+            *((DWORD*)lpNumberOfBytesRead) = fa.nFileSizeLow;
+            return TRUE;
+        });
+
+    // mock CloseHandle for close
+    //mock.OnCallFunc(CloseHandle).With((HANDLE)200).Return(TRUE);
+
+    GUID artifactId = { 0 };
+
+    ASSERT_FALSE(fc->RetrieveCapturedFile(_F(""), ArtifactType::FC, FC_DEFAULT_MIME_TYPE,
+        FC_DEFAULT_COMPRESSION_TYPE, FC_DEFAULT_ENCRYPTION_TYPE, FC_DEFAULT_CONSUMPTION_TYPE,
+        FC_DEFAULT_HASH_ALGORITHM, &artifactId));
+}
+
+http://jenkins.verdasys.com:8080/view/DoD/view/Grouped/view/AgentWin-7.7/job/CovReports-integration-windows-14days/365/
+
+http://jenkins.verdasys.com:8080/view/DoD/view/Grouped/view/AgentWin-7.7/job/CovReports-integration-windows-14days/368/
+
+775, 774, 769
+outlook.exe
+
+real name : 
+1) less commonly - scanner - paper - 
+scan - email - scanned - same name - 
+xerxx receives - forwards -
+scans diff - same name - 
+used before - user - new scan - same name
+someone same name - logo - 
+re-uses same name for these
+
+name part - .pdf
+
+
+@Colin Brown : Reviewed the logs and its in line with the fix that I have provided. Based on what you have written and my review of the logs the issue is fixed with the build that was provided. Please let me know otherwise.
+
+One thing I want to bring up is the customer did not specify until now that they did a Drag and Drop of a file to Attach it to a Email, it would have been lot easier if this information was provided when the ticket was raised. This basically resulted in lot of back and forth and the caused the problems we had seen to debug and fix this issue. The drag and drop flow is completely different than a file Attach flow when you attach a file to the New Email. This could be a retrospective item for the future.  
+
+When a file is dragged dropped onto Outlook's new email, a fix was provided to handle file and folder paths with both unicode and special characters.
+
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=11992dbf-c21d-40d2-97c3-1936a6550d64
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=22cd12b5-547b-44a6-b5ae-1ed14a952251
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=5589a4ee-d44f-4128-869f-a5141758ed19
+
+===
+button Id - publicly doc ids' on top of office
+windows programming team, 
+win32,
+workflow works,
+hold on to this ticket. If I send over 
+developing Specific help Win32 Api with Dialog box.
+Further - 
+Win32 - possible , Hack or work around 
+Scenarios - support bound, 
+User deletes , what actually is - Attachment Remove - Embedded - properties bound on it.
+Win32 - Id of the insert button, short cuts of the button, other hooks - button click - context menu - short cut - Win32 key press handler.
+
+_dgapi_debugFlags
+0x1002A9000E41078
+
+_dgapi_debugLevel
+uber
+
+_dgapi_outlook.exe_debugFlags
+0x1403AF800F45831
+
+_dgapi_outlook.exe_debugLevel
+uber
+
+No plans to do this, change this. Feedback - many people - enough people - 
+for this in the past, feedback let us
+public site for that.
+
+Bad hack - designed this way
+reason - outlook client - enough - render image - 
+Data to be sent out , DLP policies, Secure checks - Server side. Loss prevention, name of the file was ?
+Embedded image - what was image - body itself - where they got it form - 
+triage - sensitive - where they got this from, prevent access to it in that sense.
+https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform
+https://techcommunity.microsoft.com/t5/microsoft-365-developer-platform/idb-p/Microsoft365DeveloperPlatform 
+===
+
+				IShellFolder* iShellFolder = nullptr;
+                                if (QueryInterface(IID_EVENTBUS, reinterpret_cast<PVOID*> (&iShellFolder)))
+                                {
+                                    iShellFolder->GetDisplayNameOf(p, result);
+
+                                    p->Release(__FUNCTION__);
+                                    p = nullptr;
+                                }
+https://digitalguardian.atlassian.net/browse/AG-46673
+
+AG-46470
+When a embedded image within a Microsoft Word document was copied and pasted within the same document or from one Word document to another, the paste failed. This has been fixed so that the image is pasted in this scenario.
+
+In Outlook's New Email, On selecting Insert tab, and then selecting Pictures button and selecting some picture, picture is embedded in the 
+body of the email. We have a issue on the name and path of this selected picture. Outlook's PlugIn Api getAttachments() gives the 
+file name as image001.png instead of the real filename. We raised a issue with Microsoft and they came back saying its their design
+limitation and they dont have a Api to give the real filename or path of the embedded picture and they gave a link to 
+Microsoft's Dataloss protection software for us to consider. We are in the process of escalating this further, but I just wanted to share this
+information with the engineering teams.
+ 
+jjsu077080774
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=83e0140c-3d49-48af-b90a-d9d9a5f9d4d9
+====
+
+The following work request has been submitted: 
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=7c7b31e9-ea76-4901-a81e-0bff1a2f3a5b
+{
+    "WorkRequest": {
+
+http://automation-webui.acelab.com/reporting/WorkRequest_Status/?wrid=77c5b68a-8b94-45d2-ba7d-3747bfa22d5e
+=====
+
+sc start sample
+sc stop sample
+
+robot -t "<name of test case>" --loglevel DEBUG -v BROWSER:chrome c:\automation\DGAutomation\Test_Suites\DG_Agent
+TC001 Fixed Copy Removable
+cmd
+
+8
+
+regedit
+
+@vzargarian
+ - this PR can be merged - https://github.com/digitalguardian/sasource/pull/14505
+11 replies
+
+
+Vahag Zargarian
+  7 months ago
+No DoD table?
+
+
+Manoj Kandlikar
+  7 months ago
+Ddo is after merge and nightly verification right?
+
+
+Vahag Zargarian
+  7 months ago
+DoD needs to be completed after unit and smoke test. nightly will be checked after the merge,
+
+
+Todd Thompson
+  7 months ago
+DoD table should be added prior to submitting the pull. Not all table values can be filled in until after, but there are a % required before code submission.
+See the table, it explains.
+https://digitalguardian.atlassian.net/wiki/spaces/ENG/pages/5534786734/Definition+of+Done+Checklist
+Definition of Done Checklist in Engineering
+Last updated 9 months ago by Todd Thompson
+More actions...
+Added by Confluence Cloud
+
+
+Manoj Kandlikar
+  7 months ago
+Ok I will submit the Dod, and check this page out.
+
+
+Manoj Kandlikar
+  7 months ago
+@vzargarian
+ - updated DOD as well - https://digitalguardian.atlassian.net/browse/AG-43932
+
+AG-43932 [Delta] - File Capture max size does not work
+Status: In Progress
+Type: Bug
+Assignee: Manoj Kandlikar
+Priority: P2 - Escalated
+More actions...
+Added by Jira Cloud
+
+
+Vahag Zargarian
+  7 months ago
+there are two pull requests to be merged.  Is PR# 14505 ok to merge?
+
+
+Manoj Kandlikar
+  7 months ago
+@vzargarian
+: merge this one - https://github.com/digitalguardian/sasource/pull/14505/
+
+
+Manoj Kandlikar
+  7 months ago
+just one PR to be merged
+
+
+Manoj Kandlikar
+  7 months ago
+I closed the other one.
+
+
+Vahag Zargarian
+  7 months ago
+mergeds
