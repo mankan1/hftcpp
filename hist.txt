@@ -1,0 +1,586 @@
+    1  pwd
+    2  git 
+    3  pwd
+    4  ls
+    5  mkdir seastarStuff
+    6  cd seastarStuff/
+    7  ls
+    8  cd ..
+    9  cd mkdir src/seastar-learning.git
+   10  mkdir src/seastar-learning.git
+   11  ls
+   12  mkdir src
+   13  mkdir src/seastar-learning.git
+   14  cd src/seastar-learning.git
+   15  ls
+   16  git init
+   17  ls
+   18  vi 
+   19  vi README.md
+   20  git submodule add https://github.com/scylladb/seastar.git
+   21  vi CMakeLists.txt
+   22  ls
+   23  mkdir build
+   24  cd build/
+   25  cmake -GNinja ..
+   26  sudo apt install cmake
+   27  sudo apt-get update
+   28  sudo apt install cmake
+   29  cmake -GNinja ..
+   30  apt install ninja-build
+   31  sudo apt install ninja-build
+   32  cmake -GNinja ..
+   33  ls
+   34  cd ..
+   35  ls
+   36  vi CMakeLists.txt 
+   37  ls
+   38  cd build/
+   39  cmake -GNinja ..
+   40  sudo apt-get install build-essentia
+   41  sudo apt-get install build-essential
+   42  cmake -GNinja ..
+   43  sudo apt install build-essential libboost-system-dev libboost-thread-dev libboost-program-options-dev libboost-test-dev
+   44  cmake -GNinja ..
+   45  sudo apt update
+   46  sudo apt install libboost-all-dev
+   47  cmake -GNinja ..
+   48  sudo apt-get install pkg-config
+   49  cmake -GNinja ..
+   50  sudo apt-get install c-ares
+   51  cd ..
+   52  wget -c http://archive.ubuntu.com/ubuntu/pool/main/c/c-ares/libc-ares2_1.18.1-1_amd64.deb
+   53  wget -c http://archive.ubuntu.com/ubuntu/pool/main/c/c-ares/libc-ares-dev_1.18.1-1_amd64.deb
+   54  sudo apt-get install ./libc-ares2_1.18.1-1_amd64.deb ./libc-ares-dev_1.18.1-1_amd64.deb
+   55  wget -c http://archive.ubuntu.com/ubuntu/pool/main/c/c-ares/libc-ares2_1.18.1-1build1_amd64.deb
+   56  wget -c http://archive.ubuntu.com/ubuntu/pool/main/c/c-ares/libc-ares-dev_1.18.1-1build1_amd64.deb
+   57  ls
+   58  sudo apt-get install ./libc-ares2_1.18.1-1build1_amd64.deb libc-ares-dev_1.18.1-1build1_amd64.deb
+   59  sudo apt-get install ./libc-ares2_1.18.1-1build1_amd64.deb ./libc-ares-dev_1.18.1-1build1_amd64.deb
+   60  cd seastar-learning.git/build/
+   61  cmake -GNinja ..
+   62  cd ..
+   63  ls
+   64  git remote -v
+   65  ls
+   66  cd seastar-learning.git/
+   67  ls
+   68  vi README.md 
+   69  sudo apt install libcrypto++-dev
+   70  ls
+   71  cd build/
+   72  cmake -GNinja ..
+   73  sudo apt install libfmt-dev
+   74  cmake -GNinja ..
+   75  sudo apt install -y liblz4-dev
+   76  cmake -GNinja ..
+   77  sudo apt install -y gnutls-dev
+   78  cmake -GNinja ..
+   79  sudo apt install -y lksctp-tools
+   80  cmake -GNinja ..
+   81  sudo apt-get install libsctp-dev
+   82  cmake -GNinja ..
+   83  sudo apt install libyaml-cpp0.5v5 libyaml-cpp-dev
+   84  sudo apt install yaml-cpp
+   85  pwd
+   86  cd ..
+   87  git clone https://github.com/jbeder/yaml-cpp.git --branch yaml-cpp-0.6.3
+   88  ls
+   89  cd yaml-cpp/
+   90  ls
+   91  mkdir build && cd build
+   92  cmake ..
+   93  make -j12
+   94  sudo make install
+   95  cd ..
+   96  ls
+   97  cd seastar-learning.git/
+   98  ls
+   99  cd build/
+  100  ls
+  101  cmake -GNinja ..
+  102  i
+  103  sudo apt-get install -y ragel
+  104  cmake -GNinja ..
+  105  sudo apt-get install -y valgrind
+  106  cmake -GNinja ..
+  107  ninja
+  108  sudo apt-get install libaio-dev ninja-build ragel libhwloc-dev libnuma-dev libpciaccess-dev libcrypto++-dev libboost-all-dev libxen-dev libxml2-dev xfslibs-dev g++
+  109  ninja
+  110  sudo apt-get install -y systemtap-std-dev
+  111  sudo apt-get install systemtap-sdt-de
+  112  sudo apt-get install systemtap-sdt-dev
+  113  ninja
+  114  cd ..
+  115  ls
+  116  vi main.cc
+  117  vi CMakeLists.txt 
+  118  vi main.cc
+  119  vi CMakeLists.txt 
+  120  ninja
+  121  cd build/
+  122  ninja
+  123  ls
+  124  ./hello-world 
+  125  ls
+  126  vi main.cc 
+  127  vi CMakeLists.txt 
+  128  cd build/
+  129  ninja
+  130  vi ../main.cc 
+  131  ninja
+  132  cd ..
+  133  ls
+  134  ls -ltr
+  135  cd build/
+  136  ls
+  137  ls -ltr
+  138  vi compile_commands.json 
+  139  cd ..
+  140  ls
+  141  ln -s build/compile_commands.json 
+  142  ls -ltra
+  143  vi main.cc 
+  144  vi ~./vimrc
+  145  sudo vi ~./vimrc
+  146  cd ..
+  147  ls
+  148  ls -ltra
+  149  vi .viminfo 
+  150  vi .vimrc
+  151  vi .viminfo 
+  152  ls -ltra
+  153  vi .vimrc 
+  154  source .vimrc 
+  155  vi .vimrc 
+  156  cd src/
+  157  ls
+  158  cd seastar-learning.git/
+  159  s
+  160  ls
+  161  vi ~./vimrc
+  162  vi ~/.vimrc
+  163  vim
+  164  vi ~/.vimrc
+  165  cd ..
+  166  ls -ltra
+  167  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  168  vim .vimrc
+  169  curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+  170  curl -sL https://deb.nodesource.com/setup_19.x | sudo -E bash -
+  171  sudo apt-get install -y nodejs
+  172  sudo npm -i -g yarn
+  173  udo npm install -g npm
+  174  sudo npm install -g npm
+  175  sudo npm install -g yarn
+  176  cd .vim/plugged/coc.nvim
+  177  yarn install
+  178  cd ..
+  179  ls
+  180  ls -ltra
+  181  vi .vimrc 
+  182  vi src/seastar-learning.git/main.cc 
+  183  vi ~/.vimrc 
+  184  vi src/seastar-learning.git/main.cc 
+  185  vi ~/.vimrc 
+  186  vi ~/.vimrc
+  187  ls
+  188  cd src/
+  189  ls
+  190  cd seastar-learning.git/
+  191  ls
+  192  vi main.cc 
+  193  cd build/
+  194  ninja
+  195  ls
+  196  ls -ltr
+  197  ./hello-world 
+  198  sudo ./hello-world 
+  199  cd ..
+  200  vi CMakeLists.txt 
+  201  vi main.cc 
+  202  cd build/
+  203  ls
+  204  ninja
+  205  CC=clang CXX=clang++ cmake -GNinja ..
+  206  ./hello-world 
+  207  sudo ./hello-world 
+  208  vi ../main.cc 
+  209  CC=clang CXX=clang++ cmake -GNinja ..
+  210  vi ../main.cc 
+  211  CC=clang CXX=clang++ cmake -GNinja ..
+  212  sudo ./hello-world 
+  213  ninja
+  214  sudo ./hello-world 
+  215  vi ../main.cc 
+  216  ninja
+  217  vi ../main.cc 
+  218  ninja
+  219  sudo ./hello-world 
+  220  vi ../main.cc 
+  221  ninja
+  222  vi ../main.cc 
+  223  ninja
+  224  sudo ./hello-world 
+  225  vi ../main.cc 
+  226  ninja
+  227  vi ../main.cc 
+  228  ninja
+  229  sudo ./hello-world 
+  230  vi ../main.cc 
+  231  ninja
+  232  sudo ./hello-world 
+  233  vi ../main.cc 
+  234  ninja
+  235  sudo ./hello-world 
+  236  vi ../main.cc 
+  237  cd ..
+  238  ls
+  239  cd ..
+  240  pwd
+  241  ls
+  242  curl -0 https://raw.githubusercontent.com/redpanda-data/redpanda/dev/.clang-format
+  243  ls
+  244  ls -ltra
+  245  curl -0 https://raw.githubusercontent.com/redpanda-data/redpanda/dev/.clang-format
+  246  vi .clang-format
+  247  cp .clang-format seastar-learning.git/
+  248  cd seastar-learning.git/
+  249  vi main.cc 
+  250  vi ~/.vimrc 
+  251  vi main.cc 
+  252  vi ~/.vimrc 
+  253  vi main.cc 
+  254  vi ~/.vimrc 
+  255  vi main.cc 
+  256  vi ~/.vimrc 
+  257  vi main.cc 
+  258  ninja
+  259  cd build/
+  260  ninja
+  261  sudo ./hello-world 
+  262  vi ../main.cc 
+  263  ninja
+  264  vi ../main.cc 
+  265  ninja
+  266  vi ../main.cc 
+  267  ninja
+  268  sudo ./hello-world 
+  269  vi ../main.cc 
+  270  ninja
+  271  sudo ./hello-world 
+  272  vi ../main.cc 
+  273  ninja
+  274  sudo ./hello-world 
+  275  sudo ./hello-world -c 1
+  276  sudo ./hello-world -c 2
+  277  sudo ./hello-world -c 1 -m 16G
+  278  sudo ./hello-world -c 8 -m 16G
+  279  vi ../main.cc 
+  280  ninja
+  281  sudo ./hello-world -c 3 -m 16G
+  282  vi ../main.cc 
+  283  ninja
+  284  vi ../main.cc 
+  285  ninja
+  286  vi ../main.cc 
+  287  ninja
+  288  sudo ./hello-world -file foo
+  289  sudo ./hello-world --file foo
+  290  vi ../main.cc 
+  291  pwd
+  292  ls
+  293  cd src/
+  294  ls
+  295  cd seastar-learning.git/
+  296  ls
+  297  git status
+  298  git remote -v
+  299  git status
+  300  ls 
+  301  ls -ltre
+  302  ls -ltra
+  303  git status
+  304  git add .
+  305  git remote set-url origin https://github.com/mankan1/hftcpp.git
+  306  ping google.com
+  307  vi .git/config 
+  308  ls
+  309  git remote add origin git@github.com:mankan1/hftcpp.git
+  310  git psuh
+  311  git push
+  312  git push --set-upstream origin master
+  313  git remote -v
+  314  git status
+  315  gi tpush
+  316  ls -ltra
+  317  git push
+  318  git push --set-upstream origin master
+  319  git commit -m "Initial commit"
+  320  git config --global user.email "manoj.kandlikar@gmail.com"
+  321  git config --global user.name "Manoj Kandlikar"
+  322  git push --set-upstream origin master
+  323  git commit -m "Initial commit"
+  324  git push --set-upstream origin master
+  325  cd ~/.ssh
+  326  ls
+  327  ls -ltra
+  328  ssh-keygen -o
+  329  cat ~/.ssh/id_rsa.pub
+  330  cd ~/src/seastar-learning.git/
+  331  ls
+  332  git status
+  333  ls
+  334  git branch
+  335  git push --set-upstream origin master
+  336  git lfs install
+  337  git status
+  338  git lfs track build/seastar/libseastar.a
+  339  sudo apt-get install git-lfs
+  340  git lfs track build/seastar/libseastar.a
+  341  git status
+  342  git add build/
+  343  git add .gitattributes 
+  344  git commit -m "enable lfs"
+  345  git push
+  346  git push --set-upstream origin master
+  347  git status
+  348  git push
+  349  git add build/
+  350  git push --set-upstream origin master
+  351  git status
+  352  git push --set-upstream origin master
+  353  git lfs install
+  354  git lfs push --all origin
+  355  git push --set-upstream origin master
+  356  git checkout build/seastar/libseastar.a
+  357  git status
+  358  git reset build/seastar/libseastar.a
+  359  git status
+  360  git push --set-upstream origin master
+  361  git log
+  362  git lfs track
+  363  vi .gitattributes 
+  364  git push --set-upstream origin master
+  365  git add build/seastar/libseastar.a
+  366  git commit -m "add file seastar"
+  367  git push
+  368  git push --set-upstream origin master
+  369  git remote add origin git@github.com:mankan1/hftcpp.git
+  370  git push -u origin main
+  371  cd ~/.sh
+  372  cd ~/.ssh/
+  373  ls
+  374  rm ofr id_rsa*
+  375  rm -fr id_rsa*
+  376  git lfs ls-files
+  377  ssh-keygen -o -t rsa -C "manoj.kandlikar.com"
+  378  cat id_rsa.pub
+  379  ls
+  380  cd ..
+  381  ls
+  382  cd src/
+  383  ls
+  384  cd seastar-learning.git/
+  385  ls
+  386  git status
+  387  git push --set-upstream origin master
+  388  git branch
+  389  git checkout -b test_branch
+  390  git push --set-upstream origin master
+  391  git lfs install
+  392  git lfs track build/seastar/libseastar.a
+  393  git add .gitattributes 
+  394  git branch
+  395  git push --set-upstream origin test_branch
+  396  git reset -- build/seastar/libseastar.a
+  397  git status
+  398  git push --set-upstream origin test_branch
+  399  git filter-branch --index-filter 'git rm --cached --ignore-unmatch libseastar.a' merge-point..HEAD
+  400  vi .gitattributes 
+  401  git add .gitattributes 
+  402  git commit -m "lfs"
+  403  git add .
+  404  git status
+  405  git push --set-upstream origin test_branch
+  406  git lfs ls-files
+  407  git push --set-upstream origin test_branch
+  408  git push --set-upstream origin main
+  409  git push --set-upstream origin master
+  410  ls
+  411  cd ..
+  412  ls
+  413  cp libc-ares* seastar-learning.git/
+  414  cp -r yaml-cpp/ seastar-learning.git/
+  415  cd ..
+  416  pwd
+  417  ls
+  418  ls -ltra
+  419  cp .vimrc src/seastar-learning.git/
+  420  history > test.txt
+  421  vi test.txt 
+  422  cp test.txt src/seastar-learning.git/
+  423  cd src/seastar-learning.git/
+  424  git status
+  425  git add .
+  426  git status
+  427  git commit -m "imp stuff"
+  428  git branch
+  429  git push
+  430  ls
+  431  vi CMakeLists.txt 
+  432  vi main.cc 
+  433  ls
+  434  find . -name boost
+  435  cd ..
+  436  find . -name boost
+  437  pwd
+  438  ls
+  439  vi tags.sh
+  440  chmod -777 tags.sh 
+  441  ls -ltra
+  442  chmod 777 test.txt 
+  443  chmod 777 tags.sh 
+  444  ./tags.sh 
+  445  vi tags.sh 
+  446  pwd
+  447  ls
+  448  mv tags.sh src/
+  449  ls
+  450  cd src/
+  451  ls
+  452  mv tags.sh seastar-learning.git/
+  453  cd seastar-learning.git/
+  454  ls
+  455  ./tags.sh 
+  456  ls -ltra
+  457  cd seastar/
+  458  ls
+  459  ls -ltra
+  460  cd ..
+  461  pwd
+  462  sudo apt-file update
+  463  sudo apt-get install apt-file
+  464  sudo apt-file update
+  465  apt-file list boost | grep -E -o '/usr/include/.*\.(h|hpp)' | grep -v '/usr/include/boost/typeof/' > ~/.vim/tags/boost-filelist
+  466  cd ..
+  467  apt-file list boost | grep -E -o '/usr/include/.*\.(h|hpp)' | grep -v '/usr/include/boost/typeof/' > ~/.vim/tags/boost-filelist
+  468  ls
+  469  apt-file list boost | grep -E -o '/usr/include/.*\.(h|hpp)' | grep -v '/usr/include/boost/typeof/' > ~/.vim/tags/boost-filelist
+  470  ctags --sort=foldcase --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost -L ~/.vim/tags/boost-filelist
+  471  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost /usr/include/boost/
+  472  pwd
+  473  ls
+  474  cd src/
+  475  ls
+  476  cd seastar-learning.git/
+  477  ls
+  478  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost /usr/include/boost/
+  479  find /usr/include ( -name ".h" -o -name ".hpp" ) boost/typeof > boost_files.txt
+  480  ls
+  481  vi CMakeLists.txt 
+  482  cd seastar/
+  483  ls
+  484  vi CMakeLists.txt 
+  485  ls
+  486  find . name "boost*"
+  487  cd ..
+  488  ls
+  489  ls -ltra
+  490  vi compile_commands.json 
+  491  vi main.cc 
+  492  apt-file list -x "^libboost" | grep '/include/' | cut -f2 -d:
+  493  ls
+  494  vi tags.sh 
+  495  find /usr/include ( -name ".h" -o -name ".hpp" ) boost/typeof > boost_files.txt
+  496  apt-file list boost | grep -E -o '/usr/include/.*\.(h|hpp)' | grep -v '/usr/include/boost/typeof/' > ~/.vim/tags/boost-filelist
+  497  cd ~/.vim/
+  498  ls
+  499  mkdir tags
+  500  apt-file list boost | grep -E -o '/usr/include/.*\.(h|hpp)' | grep -v '/usr/include/boost/typeof/' > ~/.vim/tags/boost-filelist
+  501  ls
+  502  vi tags/
+  503  apt-file list -x "^libboost" | grep '/include/' | cut -f2 -d:
+  504  apt-file list -x "^libboost" | grep '/include/' | cut -f2 -d: > ~/.vim/tags/boost-filelist
+  505  ctags --sort=foldcase --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost -L ~/.vim/tags/boost-filelist
+  506  sudo ctags --sort=foldcase --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost -L ~/.vim/tags/boost-filelist
+  507  vi ~/.vim/tags/boost-filelist 
+  508  cd ..
+  509  ls
+  510  cd src/
+  511  s
+  512  ls
+  513  cd seastar-learning.git/
+  514  ls
+  515  vi main.cc 
+  516  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost-filelist /usr/include/boost/
+  517  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/boost /usr/include/boost/
+  518  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/stdlibcpp /usr/include/c++/4.2.4/
+  519  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q -f ~/.vim/tags/stdlibcpp /usr/include/c++/11/
+  520  ls
+  521  vi main.cc 
+  522  ctags -R --c++-kinds=+px --fields=+iaS --extra=+q /opt/gcc/include/c++/4.9.1
+  523  cp -R /usr/include/c++/$GCC_VERSION ~/.vim/cpp_src
+  524  find . -type f | xargs sed -i 's/namespace std _GLIBCXX_VISIBILITY(default)/namespace std/'
+  525  ctags -f cpp_tags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=C++ -I _GLIBCXX_NOEXCEPT cpp_src
+  526  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=C++ -I _GLIBCXX_NOEXCEPT cpp_src
+  527  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q --language-force=C++ -I _GLIBCXX_NOEXCEPT ~/.vim/cpp_src
+  528  vi main.cc 
+  529  ls
+  530  cd seastar/
+  531  ls
+  532  ls -ltra
+  533  ctags -R .
+  534  cd ..
+  535  ls
+  536  vi main.cc 
+  537  cd seastar/
+  538  ls
+  539  ls -ltra
+  540  vi tags 
+  541  cd ..
+  542  vi main.cc 
+  543  vi ~/.vim/tags/boost-filelist 
+  544  apt-file list boost | grep -E -o '/seastar/.*\.(h|hpp)' > ~/.vim/tags/boost-seastar
+  545  vi ~/.vim/tags/boost-seastar 
+  546  apt-file list seastar | grep -E -o '/seastar/.*\.(h|hpp)' > ~/.vim/tags/boost-seastar
+  547  vi ~/.vim/tags/boost-seastar 
+  548  cd seastar/
+  549  ls
+  550  ls -ltra
+  551  rm -fr tags 
+  552  ctags -R .
+  553  ls -ltra
+  554  cd ..
+  555  ls
+  556  vi main.cc 
+  557  vi tags.sh 
+  558  vi main.cc 
+  559  vi ~/.vimrc 
+  560  vi main.cc 
+  561  pwd
+  562  ls
+  563  cd src/
+  564  cd seastar-learning.git/
+  565  ls
+  566  cd seastar/
+  567  ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .
+  568  cd ..
+  569  vi main.cc 
+  570  code .
+  571  pws
+  572  pwd
+  573  ls
+  574  cd seastarStuff/
+  575  ls
+  576  cd ..
+  577  cd src/
+  578  ls
+  579  git status
+  580  cd seastar-learning.git/
+  581  ls
+  582  git status
+  583  git diff
+  584  git status
+  585  history
+  586  history > hist.txt

@@ -20,7 +20,7 @@
 
 namespace {
 // seastar::logger lg("hello_world");
-seastar::logger lg("word_world");
+seastar::logger lg("word_world1");
 } // namespace
 // take file
 // look at size of file and assign ranges to cores
@@ -60,15 +60,17 @@ static seastar::future<counts_t> word_count(seastar::sstring path, size_t start,
                                             size_t end) {
 
   lg.info("Counting words from {} to {}", start, end);
-  auto f = co_await seastar::open_file_dma(path, seastar::open_flags::ro);
+  /*auto f = co_await seastar::open_file_dma(path, seastar::open_flags::ro);
   auto is = seastar::make_file_input_stream(f, start);
 
   seastar::temporary_buffer<char> all_data;
   while (true) {
     auto data = co_await is.read();
-    if (data.empty() || (start + all_data.size()) >= end) {
+    if (data.empty()) {// || (start + all_data.size()) >= end) {
       break;
     }
+    
+    lg.info("Read bytes {} ", data.size());
     seastar::temporary_buffer<char> tmp(all_data.size() + data.size());
     std::copy_n(all_data.get(), all_data.size(), tmp.get_write());
     // std::copy_n(data.get(), all_data.size(), tmp.get_write());
@@ -77,22 +79,27 @@ static seastar::future<counts_t> word_count(seastar::sstring path, size_t start,
     all_data = std::move(tmp);
   }
 
+  lg.info("Done Reading bytes {}", all_data.size());
   std::string raw(all_data.get(), all_data.size());
   std::vector<std::string> words;
   boost::split(words, raw, boost::is_any_of("\n"));
-
+ 
+  lg.info("Split words {}", words.size());
+ */
   std::unordered_map<seastar::sstring, int> counts;
-  for (auto w : words) {
-    counts[w]++;
+  /*for (auto w : words) {
+    lg.info("each {}", w);
+    if (w != "")
+      counts[w]++;
   }
-
+*/
   // auto data1 = co_await is.read();
-  lg.info("Read {} bytes", all_data.size());
+  //lg.info("Read {} bytes", all_data.size());
 
   /*auto data2 = co_await is.read();
   lg.info("Read {} bytes", data2.size());*/
 
-  co_await is.close();
+  //co_await is.close();
   co_return counts;
 }
 
@@ -107,13 +114,17 @@ static seastar::future<> word_count(std::string path) {
     auto end = start + per_core_size;
     auto counts = co_await seastar::smp::submit_to(
         i, [path, start, end] { return word_count(path, start, end); });
-    for (auto it : counts) {
-      global_counts[it.first] += it.second;
+   /*for (auto it : counts) {
+     lg.info("it {} {}", it.first, it.second);
+     global_counts[it.first] += it.second;
     }
+    
+    lg.info("Done ");
     for (auto it : global_counts) {
       lg.info("Counting words in = {} size= {}", it.first, it.second);
-    }
+    }*/ 
   }
+  co_return;
 }
 
 int main(int argc, char **argv) {
@@ -129,7 +140,7 @@ int main(int argc, char **argv) {
     seastar::sstring path = config["file"].as<std::string>();
     // co_await word_count(path);
     lg.info("Counting words in : {}", path);
-    co_await word_count(path);
+    //co_await word_count(path);
     co_await hello_from_cores();
 
     // std::cout<< "foo" << std::endl;

@@ -423,5 +423,10 @@
   "directory": "/home/mkandlikar/src/seastar-learning.git/build",
   "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_DEFERRED_ACTION_REQUIRE_NOEXCEPT -DSEASTAR_HAS_MEMBARRIER -DSEASTAR_HAVE_ASAN_FIBER_SUPPORT -DSEASTAR_HAVE_HWLOC -DSEASTAR_HAVE_LZ4_COMPRESS_DEFAULT -DSEASTAR_HAVE_NUMA -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -I/home/mkandlikar/src/seastar-learning.git/seastar/src -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -fvisibility=hidden -UNDEBUG -Wall -Werror -Wno-array-bounds -Wno-error=deprecated-declarations -gz -std=gnu++20 -o seastar/CMakeFiles/seastar.dir/src/websocket/server.cc.o -c /home/mkandlikar/src/seastar-learning.git/seastar/src/websocket/server.cc",
   "file": "/home/mkandlikar/src/seastar-learning.git/seastar/src/websocket/server.cc"
+},
+{
+  "directory": "/home/mkandlikar/src/seastar-learning.git/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_SCHEDULING_GROUPS_COUNT=16 -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -std=gnu++20 -o src/k2/appbase/CMakeFiles/k2appbase.dir/Appbase.cpp.o -c /home/mkandlikar/src/seastar-learning.git/src/k2/appbase/Appbase.cpp",
+  "file": "/home/mkandlikar/src/seastar-learning.git/src/k2/appbase/Appbase.cpp"
 }
 ]

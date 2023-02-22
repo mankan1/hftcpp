@@ -42,7 +42,7 @@ cmake_ninja_workdir = /home/mkandlikar/src/seastar-learning.git/build/
 #############################################
 # Order-only phony target for hello-world
 
-build cmake_object_order_depends_target_hello-world: phony || cmake_object_order_depends_target_seastar
+build cmake_object_order_depends_target_hello-world: phony || cmake_object_order_depends_target_k2appbase cmake_object_order_depends_target_seastar
 
 build CMakeFiles/hello-world.dir/main.cc.o: CXX_COMPILER__hello-world_ /home/mkandlikar/src/seastar-learning.git/main.cc || cmake_object_order_depends_target_hello-world
   DEFINES = -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_SCHEDULING_GROUPS_COUNT=16
@@ -60,8 +60,8 @@ build CMakeFiles/hello-world.dir/main.cc.o: CXX_COMPILER__hello-world_ /home/mka
 #############################################
 # Link the executable hello-world
 
-build hello-world: CXX_EXECUTABLE_LINKER__hello-world_ CMakeFiles/hello-world.dir/main.cc.o | seastar/libseastar.a /usr/lib/x86_64-linux-gnu/libboost_program_options.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libcares.so /usr/lib/x86_64-linux-gnu/libcryptopp.so /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 /usr/lib/x86_64-linux-gnu/liblz4.so /usr/lib/x86_64-linux-gnu/libgnutls.so /usr/lib/x86_64-linux-gnu/libsctp.so /usr/local/lib/libyaml-cpp.a /usr/lib/x86_64-linux-gnu/libhwloc.so /usr/lib/x86_64-linux-gnu/libnuma.so || seastar/libseastar.a
-  LINK_LIBRARIES = seastar/libseastar.a  /usr/lib/x86_64-linux-gnu/libboost_program_options.so  /usr/lib/x86_64-linux-gnu/libboost_thread.so  /usr/lib/x86_64-linux-gnu/libboost_chrono.so  /usr/lib/x86_64-linux-gnu/libboost_date_time.so  /usr/lib/x86_64-linux-gnu/libboost_atomic.so  /usr/lib/x86_64-linux-gnu/libcares.so  /usr/lib/x86_64-linux-gnu/libcryptopp.so  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1  -Wl,--as-needed  /usr/lib/x86_64-linux-gnu/liblz4.so  -ldl  /usr/lib/x86_64-linux-gnu/libgnutls.so  -latomic  /usr/lib/x86_64-linux-gnu/libsctp.so  /usr/local/lib/libyaml-cpp.a  /usr/lib/x86_64-linux-gnu/libhwloc.so  /usr/lib/x86_64-linux-gnu/libnuma.so
+build hello-world: CXX_EXECUTABLE_LINKER__hello-world_ CMakeFiles/hello-world.dir/main.cc.o | src/k2/appbase/libk2appbase.a seastar/libseastar.a /usr/lib/x86_64-linux-gnu/libboost_program_options.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libcares.so /usr/lib/x86_64-linux-gnu/libcryptopp.so /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 /usr/lib/x86_64-linux-gnu/liblz4.so /usr/lib/x86_64-linux-gnu/libgnutls.so /usr/lib/x86_64-linux-gnu/libsctp.so /usr/local/lib/libyaml-cpp.a /usr/lib/x86_64-linux-gnu/libhwloc.so /usr/lib/x86_64-linux-gnu/libnuma.so || seastar/libseastar.a src/k2/appbase/libk2appbase.a
+  LINK_LIBRARIES = src/k2/appbase/libk2appbase.a  seastar/libseastar.a  /usr/lib/x86_64-linux-gnu/libboost_program_options.so  /usr/lib/x86_64-linux-gnu/libboost_thread.so  /usr/lib/x86_64-linux-gnu/libboost_chrono.so  /usr/lib/x86_64-linux-gnu/libboost_date_time.so  /usr/lib/x86_64-linux-gnu/libboost_atomic.so  /usr/lib/x86_64-linux-gnu/libcares.so  /usr/lib/x86_64-linux-gnu/libcryptopp.so  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1  -Wl,--as-needed  /usr/lib/x86_64-linux-gnu/liblz4.so  -ldl  /usr/lib/x86_64-linux-gnu/libgnutls.so  -latomic  /usr/lib/x86_64-linux-gnu/libsctp.so  /usr/local/lib/libyaml-cpp.a  /usr/lib/x86_64-linux-gnu/libhwloc.so  /usr/lib/x86_64-linux-gnu/libnuma.so
   OBJECT_DIR = CMakeFiles/hello-world.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1271,6 +1271,122 @@ build seastar/CMakeFiles/ContinuousSubmit | ${cmake_ninja_workdir}seastar/CMakeF
   pool = console
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /home/mkandlikar/src/seastar-learning.git/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build src/edit_cache: phony src/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src && /usr/bin/cmake --regenerate-during-build -S/home/mkandlikar/src/seastar-learning.git -B/home/mkandlikar/src/seastar-learning.git/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/rebuild_cache: phony src/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /home/mkandlikar/src/seastar-learning.git/src/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/k2/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src/k2 && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build src/k2/edit_cache: phony src/k2/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/k2/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src/k2 && /usr/bin/cmake --regenerate-during-build -S/home/mkandlikar/src/seastar-learning.git -B/home/mkandlikar/src/seastar-learning.git/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/k2/rebuild_cache: phony src/k2/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /home/mkandlikar/src/seastar-learning.git/src/k2/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target k2appbase
+
+
+#############################################
+# Order-only phony target for k2appbase
+
+build cmake_object_order_depends_target_k2appbase: phony || cmake_object_order_depends_target_seastar
+
+build src/k2/appbase/CMakeFiles/k2appbase.dir/Appbase.cpp.o: CXX_COMPILER__k2appbase_ /home/mkandlikar/src/seastar-learning.git/src/k2/appbase/Appbase.cpp || cmake_object_order_depends_target_k2appbase
+  DEFINES = -DFMT_LOCALE -DFMT_SHARED -DSEASTAR_API_LEVEL=6 -DSEASTAR_SCHEDULING_GROUPS_COUNT=16
+  DEP_FILE = src/k2/appbase/CMakeFiles/k2appbase.dir/Appbase.cpp.o.d
+  FLAGS = -U_FORTIFY_SOURCE -Wno-maybe-uninitialized -DSEASTAR_SSTRING -Wno-error=unused-result -std=gnu++20
+  INCLUDES = -I/home/mkandlikar/src/seastar-learning.git/seastar/include -I/home/mkandlikar/src/seastar-learning.git/build/seastar/gen/include
+  OBJECT_DIR = src/k2/appbase/CMakeFiles/k2appbase.dir
+  OBJECT_FILE_DIR = src/k2/appbase/CMakeFiles/k2appbase.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target k2appbase
+
+
+#############################################
+# Link the static library src/k2/appbase/libk2appbase.a
+
+build src/k2/appbase/libk2appbase.a: CXX_STATIC_LIBRARY_LINKER__k2appbase_ src/k2/appbase/CMakeFiles/k2appbase.dir/Appbase.cpp.o || seastar/libseastar.a /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1
+  OBJECT_DIR = src/k2/appbase/CMakeFiles/k2appbase.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = src/k2/appbase/libk2appbase.a
+  TARGET_PDB = k2appbase.a.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/k2/appbase/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build src/k2/appbase/edit_cache: phony src/k2/appbase/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/k2/appbase/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase && /usr/bin/cmake --regenerate-during-build -S/home/mkandlikar/src/seastar-learning.git -B/home/mkandlikar/src/seastar-learning.git/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/k2/appbase/rebuild_cache: phony src/k2/appbase/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build Continuous: phony seastar/Continuous
@@ -1329,6 +1445,10 @@ build NightlyTest: phony seastar/NightlyTest
 
 build NightlyUpdate: phony seastar/NightlyUpdate
 
+build k2appbase: phony src/k2/appbase/libk2appbase.a
+
+build libk2appbase.a: phony src/k2/appbase/libk2appbase.a
+
 build libseastar.a: phony seastar/libseastar.a
 
 build seastar: phony seastar/libseastar.a
@@ -1347,7 +1467,7 @@ build seastar_http_response_parser: phony seastar/seastar_http_response_parser
 #############################################
 # Folder: /home/mkandlikar/src/seastar-learning.git/build
 
-build all: phony hello-world seastar/all
+build all: phony hello-world seastar/all src/all
 
 # =============================================================================
 
@@ -1357,20 +1477,41 @@ build all: phony hello-world seastar/all
 build seastar/all: phony seastar/libseastar.a
 
 # =============================================================================
+
+#############################################
+# Folder: /home/mkandlikar/src/seastar-learning.git/build/src
+
+build src/all: phony src/k2/all
+
+# =============================================================================
+
+#############################################
+# Folder: /home/mkandlikar/src/seastar-learning.git/build/src/k2
+
+build src/k2/all: phony src/k2/appbase/all
+
+# =============================================================================
+
+#############################################
+# Folder: /home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase
+
+build src/k2/appbase/all: phony src/k2/appbase/libk2appbase.a
+
+# =============================================================================
 # Built-in targets
 
 
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../seastar/CMakeLists.txt ../seastar/cmake/FindGnuTLS.cmake ../seastar/cmake/FindLibUring.cmake ../seastar/cmake/FindLinuxMembarrier.cmake ../seastar/cmake/FindPthreadSetName.cmake ../seastar/cmake/FindSanitizers.cmake ../seastar/cmake/FindSourceLocation.cmake ../seastar/cmake/FindStdAtomic.cmake ../seastar/cmake/FindValgrind.cmake ../seastar/cmake/Findc-ares.cmake ../seastar/cmake/Findcryptopp.cmake ../seastar/cmake/Findhwloc.cmake ../seastar/cmake/Findlksctp-tools.cmake ../seastar/cmake/Findlz4.cmake ../seastar/cmake/Findnumactl.cmake ../seastar/cmake/Findragel.cmake ../seastar/cmake/Findrt.cmake ../seastar/cmake/Findyaml-cpp.cmake ../seastar/cmake/SeastarDependencies.cmake ../seastar/cmake/code_tests/rt_test.cc /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config-version.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets.cmake /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeDependentOption.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake /usr/share/cmake-3.22/Modules/CMakePushCheckState.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CTest.cmake /usr/share/cmake-3.22/Modules/CTestTargets.cmake /usr/share/cmake-3.22/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceRuns.cmake /usr/share/cmake-3.22/Modules/CheckIncludeFile.cmake /usr/share/cmake-3.22/Modules/CheckLibraryExists.cmake /usr/share/cmake-3.22/Modules/CheckSymbolExists.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.22/Modules/FindBoost.cmake /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake-3.22/Modules/FindPackageMessage.cmake /usr/share/cmake-3.22/Modules/FindPkgConfig.cmake /usr/share/cmake-3.22/Modules/FindThreads.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceRuns.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../seastar/CMakeLists.txt ../seastar/cmake/FindGnuTLS.cmake ../seastar/cmake/FindLibUring.cmake ../seastar/cmake/FindLinuxMembarrier.cmake ../seastar/cmake/FindPthreadSetName.cmake ../seastar/cmake/FindSanitizers.cmake ../seastar/cmake/FindSourceLocation.cmake ../seastar/cmake/FindStdAtomic.cmake ../seastar/cmake/FindValgrind.cmake ../seastar/cmake/Findc-ares.cmake ../seastar/cmake/Findcryptopp.cmake ../seastar/cmake/Findhwloc.cmake ../seastar/cmake/Findlksctp-tools.cmake ../seastar/cmake/Findlz4.cmake ../seastar/cmake/Findnumactl.cmake ../seastar/cmake/Findragel.cmake ../seastar/cmake/Findrt.cmake ../seastar/cmake/Findyaml-cpp.cmake ../seastar/cmake/SeastarDependencies.cmake ../seastar/cmake/code_tests/rt_test.cc ../src/CMakeLists.txt ../src/k2/CMakeLists.txt ../src/k2/appbase/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config-version.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets.cmake /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeDependentOption.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake /usr/share/cmake-3.22/Modules/CMakePushCheckState.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CTest.cmake /usr/share/cmake-3.22/Modules/CTestTargets.cmake /usr/share/cmake-3.22/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceRuns.cmake /usr/share/cmake-3.22/Modules/CheckIncludeFile.cmake /usr/share/cmake-3.22/Modules/CheckLibraryExists.cmake /usr/share/cmake-3.22/Modules/CheckSymbolExists.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.22/Modules/FindBoost.cmake /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake-3.22/Modules/FindPackageMessage.cmake /usr/share/cmake-3.22/Modules/FindPkgConfig.cmake /usr/share/cmake-3.22/Modules/FindThreads.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceRuns.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../seastar/CMakeLists.txt ../seastar/cmake/FindGnuTLS.cmake ../seastar/cmake/FindLibUring.cmake ../seastar/cmake/FindLinuxMembarrier.cmake ../seastar/cmake/FindPthreadSetName.cmake ../seastar/cmake/FindSanitizers.cmake ../seastar/cmake/FindSourceLocation.cmake ../seastar/cmake/FindStdAtomic.cmake ../seastar/cmake/FindValgrind.cmake ../seastar/cmake/Findc-ares.cmake ../seastar/cmake/Findcryptopp.cmake ../seastar/cmake/Findhwloc.cmake ../seastar/cmake/Findlksctp-tools.cmake ../seastar/cmake/Findlz4.cmake ../seastar/cmake/Findnumactl.cmake ../seastar/cmake/Findragel.cmake ../seastar/cmake/Findrt.cmake ../seastar/cmake/Findyaml-cpp.cmake ../seastar/cmake/SeastarDependencies.cmake ../seastar/cmake/code_tests/rt_test.cc /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config-version.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets.cmake /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeDependentOption.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake /usr/share/cmake-3.22/Modules/CMakePushCheckState.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CTest.cmake /usr/share/cmake-3.22/Modules/CTestTargets.cmake /usr/share/cmake-3.22/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceRuns.cmake /usr/share/cmake-3.22/Modules/CheckIncludeFile.cmake /usr/share/cmake-3.22/Modules/CheckLibraryExists.cmake /usr/share/cmake-3.22/Modules/CheckSymbolExists.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.22/Modules/FindBoost.cmake /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake-3.22/Modules/FindPackageMessage.cmake /usr/share/cmake-3.22/Modules/FindPkgConfig.cmake /usr/share/cmake-3.22/Modules/FindThreads.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceRuns.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake: phony
+build ../CMakeLists.txt ../seastar/CMakeLists.txt ../seastar/cmake/FindGnuTLS.cmake ../seastar/cmake/FindLibUring.cmake ../seastar/cmake/FindLinuxMembarrier.cmake ../seastar/cmake/FindPthreadSetName.cmake ../seastar/cmake/FindSanitizers.cmake ../seastar/cmake/FindSourceLocation.cmake ../seastar/cmake/FindStdAtomic.cmake ../seastar/cmake/FindValgrind.cmake ../seastar/cmake/Findc-ares.cmake ../seastar/cmake/Findcryptopp.cmake ../seastar/cmake/Findhwloc.cmake ../seastar/cmake/Findlksctp-tools.cmake ../seastar/cmake/Findlz4.cmake ../seastar/cmake/Findnumactl.cmake ../seastar/cmake/Findragel.cmake ../seastar/cmake/Findrt.cmake ../seastar/cmake/Findyaml-cpp.cmake ../seastar/cmake/SeastarDependencies.cmake ../seastar/cmake/code_tests/rt_test.cc ../src/CMakeLists.txt ../src/k2/CMakeLists.txt ../src/k2/appbase/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config-version.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-config.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/fmt/fmt-targets.cmake /usr/share/cmake-3.22/Modules/CMakeCInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.22/Modules/CMakeDependentOption.cmake /usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.22/Modules/CMakeParseArguments.cmake /usr/share/cmake-3.22/Modules/CMakePushCheckState.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.22/Modules/CTest.cmake /usr/share/cmake-3.22/Modules/CTestTargets.cmake /usr/share/cmake-3.22/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake /usr/share/cmake-3.22/Modules/CheckCXXSourceRuns.cmake /usr/share/cmake-3.22/Modules/CheckIncludeFile.cmake /usr/share/cmake-3.22/Modules/CheckLibraryExists.cmake /usr/share/cmake-3.22/Modules/CheckSymbolExists.cmake /usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Compiler/GNU.cmake /usr/share/cmake-3.22/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.22/Modules/FindBoost.cmake /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake-3.22/Modules/FindPackageMessage.cmake /usr/share/cmake-3.22/Modules/FindPkgConfig.cmake /usr/share/cmake-3.22/Modules/FindThreads.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake-3.22/Modules/Internal/CheckSourceRuns.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.22/Modules/Platform/Linux.cmake /usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.22/Modules/SelectLibraryConfigurations.cmake CMakeCache.txt CMakeFiles/3.22.1/CMakeCCompiler.cmake CMakeFiles/3.22.1/CMakeCXXCompiler.cmake CMakeFiles/3.22.1/CMakeSystem.cmake: phony
 
 
 #############################################

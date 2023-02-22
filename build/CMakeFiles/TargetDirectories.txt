@@ -35,3 +35,10 @@
 /home/mkandlikar/src/seastar-learning.git/build/seastar/CMakeFiles/ContinuousSubmit.dir
 /home/mkandlikar/src/seastar-learning.git/build/seastar/CMakeFiles/edit_cache.dir
 /home/mkandlikar/src/seastar-learning.git/build/seastar/CMakeFiles/rebuild_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/CMakeFiles/edit_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/CMakeFiles/rebuild_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/k2/CMakeFiles/edit_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/k2/CMakeFiles/rebuild_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase/CMakeFiles/k2appbase.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase/CMakeFiles/edit_cache.dir
+/home/mkandlikar/src/seastar-learning.git/build/src/k2/appbase/CMakeFiles/rebuild_cache.dir
